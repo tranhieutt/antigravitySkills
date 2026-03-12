@@ -40,3 +40,7 @@ Works with Claude Code, Cursor, Windsurf, OpenAI Codex, Gemini CLI, GitHub Copil
 ## Source
 
 GitHub: https://github.com/Digidai/product-manager-skills
+
+## When to Use
+
+- Use when Senior PM agent with 6 knowledge domains, 30+ frameworks, 12 templates, and 32 SaaS metrics with formulas. Pure Markdown, zero scripts.

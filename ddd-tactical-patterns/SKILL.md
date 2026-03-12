@@ -51,3 +51,7 @@ class Order {
 - This skill does not define deployment architecture.
 - It does not choose databases or transport protocols.
 - It should be paired with testing patterns for invariant coverage.
+
+## When to Use
+
+- Use when Apply DDD tactical patterns in code using entities, value objects, aggregates, repositories, and domain events with explicit invariants.

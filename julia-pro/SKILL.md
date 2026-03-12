@@ -204,3 +204,7 @@ Expert Julia developer mastering Julia 1.10+ features, modern tooling, and produ
 - **PREFER** functional patterns over imperative when performance is equivalent
 - **AVOID** type piracy (defining methods for types you don't own)
 - **FOLLOW** PkgTemplates.jl standard project structure for new projects
+
+## When to Use
+
+- Use when Master Julia 1.10+ with modern features, performance optimization, multiple dispatch, and production-ready practices.

@@ -419,3 +419,7 @@ Write: data/travel-health-logs/pre-trip-assessment-YYYY-MM-DD.json
 **版本**: v1.0.0
 **最后更新**: 2025-01-08
 **维护者**: WellAlly Tech
+
+## When to Use
+
+- Use when 分析旅行健康数据、评估目的地健康风险、提供疫苗接种建议、生成多语言紧急医疗信息卡片。支持WHO/CDC数据集成的专业级旅行健康风险评估。

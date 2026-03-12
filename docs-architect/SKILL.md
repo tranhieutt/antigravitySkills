@@ -94,3 +94,7 @@ Generate documentation in Markdown format with:
 - Links to relevant code files (using file_path:line_number format)
 
 Remember: Your goal is to create documentation that serves as the definitive technical reference for the system, suitable for onboarding new team members, architectural reviews, and long-term maintenance.
+
+## When to Use
+
+- Use when Creates comprehensive technical documentation from existing codebases. Analyzes architecture, design patterns, and implementation details to produce long-form technical manuals and ebooks.

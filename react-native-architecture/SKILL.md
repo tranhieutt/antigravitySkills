@@ -34,3 +34,7 @@ Production-ready patterns for React Native development with Expo, including navi
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
+
+## When to Use
+
+- Use when Build production React Native apps with Expo, navigation, native modules, offline sync, and cross-platform patterns. Use when developing mobile apps, implementing native integrations, or architecti...

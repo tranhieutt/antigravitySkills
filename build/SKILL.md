@@ -640,3 +640,7 @@ When implementing phases:
 - Don't assume code works - verify it
 - If something doesn't work, fix it before moving on
 - The goal is working software, not just written code
+
+## When to Use
+
+- Use when build

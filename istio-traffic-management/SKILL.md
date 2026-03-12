@@ -338,3 +338,7 @@ istioctl proxy-config log deploy/my-app --level debug
 - [Istio Traffic Management](https://istio.io/latest/docs/concepts/traffic-management/)
 - [Virtual Service Reference](https://istio.io/latest/docs/reference/config/networking/virtual-service/)
 - [Destination Rule Reference](https://istio.io/latest/docs/reference/config/networking/destination-rule/)
+
+## When to Use
+
+- Use when Configure Istio traffic management including routing, load balancing, circuit breakers, and canary deployments. Use when implementing service mesh traffic policies, progressive delivery, or resilie...

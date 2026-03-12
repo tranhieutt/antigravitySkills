@@ -478,3 +478,7 @@ Add className to component props:
 ```tsx
 type Props = React.ComponentProps<typeof RNView> & { className?: string };
 ```
+
+## When to Use
+
+- Use when Set up Tailwind CSS v4 in Expo with react-native-css and NativeWind v5 for universal styling

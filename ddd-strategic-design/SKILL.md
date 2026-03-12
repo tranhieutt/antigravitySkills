@@ -50,3 +50,7 @@ classify subdomains, and propose team ownership.
 - This skill does not produce executable code.
 - It cannot infer business truth without stakeholder input.
 - It should be followed by tactical design before implementation.
+
+## When to Use
+
+- Use when Design DDD strategic artifacts including subdomains, bounded contexts, and ubiquitous language for complex business domains.

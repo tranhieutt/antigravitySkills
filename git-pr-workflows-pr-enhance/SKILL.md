@@ -49,3 +49,7 @@ Focus on creating PRs that are a pleasure to review, with all necessary context 
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
+
+## When to Use
+
+- Use when You are a PR optimization expert specializing in creating high-quality pull requests that facilitate efficient code reviews. Generate comprehensive PR descriptions, automate review processes, and ensu

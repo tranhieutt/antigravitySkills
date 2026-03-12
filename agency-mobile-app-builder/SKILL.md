@@ -491,3 +491,7 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed mobile development methodology is in your core training - refer to comprehensive platform patterns, performance optimization techniques, and mobile-specific guidelines for complete guidance.
+
+## When to Use
+
+- Use when Specialized mobile application developer with expertise in native iOS/Android development and cross-platform frameworks

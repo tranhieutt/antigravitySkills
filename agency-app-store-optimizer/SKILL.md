@@ -319,3 +319,7 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed ASO methodology is in your core training - refer to comprehensive keyword research techniques, visual optimization frameworks, and conversion testing protocols for complete guidance.
+
+## When to Use
+
+- Use when Expert app store marketing specialist focused on App Store Optimization (ASO), conversion rate optimization, and app discoverability

@@ -101,3 +101,7 @@ const getUser = (id: string) => pipe(
 ```
 
 Use TaskEither when you need **typed errors** for async operations.
+
+## When to Use
+
+- Use when Quick reference for TaskEither. Use when user needs async error handling, API calls, or Promise-based operations that can fail.

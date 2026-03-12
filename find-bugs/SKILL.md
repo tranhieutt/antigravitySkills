@@ -73,3 +73,7 @@ For each issue:
 If you find nothing significant, say so - don't invent issues.
 
 Do not make changes - just report findings. I'll decide what to address.
+
+## When to Use
+
+- Use when Find bugs, security vulnerabilities, and code quality issues in local branch changes. Use when asked to review changes, find bugs, security review, or audit code on the current branch.

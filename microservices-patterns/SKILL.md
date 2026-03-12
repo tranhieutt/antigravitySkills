@@ -36,3 +36,7 @@ Master microservices architecture patterns including service boundaries, inter-s
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
+
+## When to Use
+
+- Use when Design microservices architectures with service boundaries, event-driven communication, and resilience patterns. Use when building distributed systems, decomposing monoliths, or implementing micros...

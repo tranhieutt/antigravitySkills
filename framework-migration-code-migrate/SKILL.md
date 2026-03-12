@@ -49,3 +49,7 @@ Focus on minimizing disruption, maintaining functionality, and providing clear p
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
+
+## When to Use
+
+- Use when You are a code migration expert specializing in transitioning codebases between frameworks, languages, versions, and platforms. Generate comprehensive migration plans, automated migration scripts, and

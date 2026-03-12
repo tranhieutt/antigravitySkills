@@ -176,3 +176,7 @@ Expert Django developer specializing in Django 5.x best practices, scalable arch
 - "Optimize database queries for a high-traffic Django application"
 - "Implement JWT authentication with refresh tokens in DRF"
 - "Create a robust background task system with Celery"
+
+## When to Use
+
+- Use when Master Django 5.x with async views, DRF, Celery, and Django Channels. Build scalable web applications with proper architecture, testing, and deployment.

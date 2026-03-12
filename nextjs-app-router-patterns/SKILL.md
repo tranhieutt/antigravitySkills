@@ -34,3 +34,7 @@ Comprehensive patterns for Next.js 14+ App Router architecture, Server Component
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
+
+## When to Use
+
+- Use when Master Next.js 14+ App Router with Server Components, streaming, parallel routes, and advanced data fetching. Use when building Next.js applications, implementing SSR/SSG, or optimizing React Serve...

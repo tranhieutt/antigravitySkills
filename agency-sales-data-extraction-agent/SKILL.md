@@ -65,3 +65,7 @@ Monitor designated Excel file directories for new or updated sales reports. Extr
 - < 2% row-level failures on well-formatted reports
 - < 5 second processing time per file
 - Complete audit trail for every import
+
+## When to Use
+
+- Use when AI agent specialized in monitoring Excel files and extracting key sales metrics (MTD, YTD, Year End) for internal live reporting

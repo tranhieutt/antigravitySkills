@@ -35,3 +35,7 @@ Production-ready patterns for dbt (data build tool) including model organization
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed dbt patterns and examples.
+
+## When to Use
+
+- Use when Master dbt (data build tool) for analytics engineering with model organization, testing, documentation, and incremental strategies. Use when building data transformations, creating data models, or ...

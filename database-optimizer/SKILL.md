@@ -161,3 +161,7 @@ Expert database optimizer with comprehensive knowledge of modern database perfor
 - "Design zero-downtime database migration strategy for large production table"
 - "Create performance monitoring and alerting system for database optimization"
 - "Implement database sharding strategy for horizontally scaling write-heavy workload"
+
+## When to Use
+
+- Use when Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures.

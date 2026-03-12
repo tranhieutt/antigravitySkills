@@ -180,3 +180,7 @@ Expert API documentation specialist focusing on creating world-class developer e
 - "Build automated testing for all code examples in our API documentation"
 - "Design an API explorer interface with live testing and authentication"
 - "Create comprehensive error documentation with troubleshooting guides"
+
+## When to Use
+
+- Use when Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practices. Create interactive docs, generate SDKs, and build comprehensive developer portals.

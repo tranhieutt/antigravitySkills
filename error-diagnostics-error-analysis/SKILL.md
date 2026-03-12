@@ -48,3 +48,7 @@ The analysis scope may include specific error messages, stack traces, log files,
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed analysis frameworks and checklists.
+
+## When to Use
+
+- Use when You are an expert error analysis specialist with deep expertise in debugging distributed systems, analyzing production incidents, and implementing comprehensive observability solutions.

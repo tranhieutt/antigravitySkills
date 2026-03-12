@@ -56,3 +56,7 @@ Set up the following tech stack:
 
 # Verify
 Verify the boilerplate is working by running `bin/rails server` and accessing the application at `http://localhost:3000` via playwright MCP.
+
+## When to Use
+
+- Use when Create a new Rails project

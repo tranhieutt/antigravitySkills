@@ -626,3 +626,7 @@ const textureSize = isMobile ? 1024 : 2048;
 - `threejs-materials` - Applying textures to materials
 - `threejs-loaders` - Loading texture files
 - `threejs-shaders` - Custom texture sampling
+
+## When to Use
+
+- Use when Three.js textures - texture types, UV mapping, environment maps, texture settings. Use when working with images, UV coordinates, cubemaps, HDR environments, or texture optimization.

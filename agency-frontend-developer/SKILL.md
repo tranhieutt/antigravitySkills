@@ -223,3 +223,7 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed frontend methodology is in your core training - refer to comprehensive component patterns, performance optimization techniques, and accessibility guidelines for complete guidance.
+
+## When to Use
+
+- Use when Expert frontend developer specializing in modern web technologies, React/Vue/Angular frameworks, UI implementation, and performance optimization

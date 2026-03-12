@@ -181,3 +181,7 @@ If issues arise during or after deployment:
 5. Incident post-mortem and fixes before re-deployment
 
 Feature description: $ARGUMENTS
+
+## When to Use
+
+- Use when Orchestrate end-to-end backend feature development from requirements to deployment. Use when coordinating multi-phase feature delivery across teams and services.

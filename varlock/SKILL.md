@@ -432,3 +432,7 @@ Add these to your package.json:
 
 *Last updated: December 22, 2025*
 *Secure-by-default environment management for Claude Code*
+
+## When to Use
+
+- Use when Secure environment variable management with Varlock. Use when handling secrets, API keys, credentials, or any sensitive configuration. Ensures secrets are never exposed in terminals, logs, traces, or Claude's context. Trigger phrases include "environment variables",...

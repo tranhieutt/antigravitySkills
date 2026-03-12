@@ -89,3 +89,7 @@ Description: Action verb + benefit. Include keyword naturally. Clear CTA here âœ
 - Astro/Next.js: Component props and helmet setup
 
 Focus on psychological triggers and user benefits. Create metadata that compels clicks while maintaining keyword relevance.
+
+## When to Use
+
+- Use when Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Generates compelling, keyword-rich metadata. Use PROACTIVELY for new content.

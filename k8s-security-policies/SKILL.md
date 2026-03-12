@@ -347,3 +347,7 @@ kubectl auth can-i '*' '*' --as system:serviceaccount:default:my-sa
 
 - `k8s-manifest-generator` - For creating secure manifests
 - `gitops-workflow` - For automated policy deployment
+
+## When to Use
+
+- Use when Implement Kubernetes security policies including NetworkPolicy, PodSecurityPolicy, and RBAC for production-grade security. Use when securing Kubernetes clusters, implementing network isolation, or ...

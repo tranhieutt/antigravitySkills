@@ -1779,3 +1779,7 @@ Migrating to fp-ts is a journey, not a destination. Key principles:
 6. **Review benefits**: Ensure the added complexity provides value
 
 The goal is more maintainable, type-safe code—not functional programming for its own sake.
+
+## When to Use
+
+- Use when Comprehensive guide for refactoring imperative TypeScript code to fp-ts functional patterns

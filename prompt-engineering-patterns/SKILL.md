@@ -214,3 +214,7 @@ Track these KPIs for your prompts:
 3. Implement prompt versioning and A/B testing
 4. Set up automated evaluation pipelines
 5. Document your prompt engineering decisions and learnings
+
+## When to Use
+
+- Use when Master advanced prompt engineering techniques to maximize LLM performance, reliability, and controllability in production. Use when optimizing prompts, improving LLM outputs, or designing productio...

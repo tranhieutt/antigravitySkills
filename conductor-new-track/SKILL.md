@@ -432,3 +432,7 @@ Next steps:
 - If directory creation fails: Halt and report, do not register in tracks.md
 - If any file write fails: Clean up partial track, report error
 - If tracks.md update fails: Warn user to manually register track
+
+## When to Use
+
+- Use when Create a new track with specification and phased implementation plan

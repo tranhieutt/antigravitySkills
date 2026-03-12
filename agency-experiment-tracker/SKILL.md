@@ -196,3 +196,7 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed experimentation methodology is in your core training - refer to comprehensive statistical frameworks, experiment design patterns, and data analysis techniques for complete guidance.
+
+## When to Use
+
+- Use when Expert project manager specializing in experiment design, execution tracking, and data-driven decision making. Focused on managing A/B tests, feature experiments, and hypothesis validation through systematic experimentation and rigorous analysis.

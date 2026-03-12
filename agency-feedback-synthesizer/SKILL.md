@@ -116,3 +116,7 @@ Use this agent when you need:
 - **Methodology Refinement**: Prediction accuracy improvement and bias reduction
 - **Communication Enhancement**: Stakeholder engagement metrics and format optimization
 - **Process Automation**: Efficiency improvements and quality assurance scaling
+
+## When to Use
+
+- Use when Expert in collecting, analyzing, and synthesizing user feedback from multiple channels to extract actionable product insights. Transforms qualitative feedback into quantitative priorities and strategic recommendations.

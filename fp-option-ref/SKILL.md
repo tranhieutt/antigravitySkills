@@ -77,3 +77,7 @@ pipe(
 ```
 
 Use Option when you need to **chain** operations on optional values.
+
+## When to Use
+
+- Use when Quick reference for Option type. Use when user needs to handle nullable values, optional data, or wants to avoid null checks.

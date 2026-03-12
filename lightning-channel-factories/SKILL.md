@@ -49,3 +49,7 @@ Technical reference for Lightning Network channel factory implementations. Cover
 - SuperScalar project: https://github.com/8144225309/SuperScalar
 - Website: https://SuperScalar.win
 - Original proposal: https://delvingbitcoin.org/t/superscalar-laddered-timeout-tree-structured-decker-wattenhofer-factories/1143
+
+## When to Use
+
+- Use when Technical reference on Lightning Network channel factories, multi-party channels, LSP architectures, and Bitcoin Layer 2 scaling without soft forks. Covers Decker-Wattenhofer, timeout trees, MuSig2 key aggregation, HTLC/PTLC forwarding, and watchtower breach detection.

@@ -152,3 +152,7 @@ Child = <Parent> {
 2. Emphasize that DSL is embedded in Rust via `live_design!` macro
 3. Highlight that changes to DSL are live-reloaded without recompilation
 4. Distinguish between named objects (prototypes) and widget instances
+
+## When to Use
+
+- Use when |

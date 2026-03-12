@@ -198,3 +198,7 @@ Focus on actionable insights. Use AI assistance throughout for pattern recogniti
 ---
 
 Issue to debug: $ARGUMENTS
+
+## When to Use
+
+- Use when Use when working with error diagnostics smart debug

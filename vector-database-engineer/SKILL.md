@@ -61,3 +61,7 @@ Expert in vector databases, embedding strategies, and semantic search implementa
 - Plan for index rebuilding
 - Cache frequent queries
 - Test recall vs latency tradeoffs
+
+## When to Use
+
+- Use when Expert in vector databases, embedding strategies, and semantic search implementation. Masters Pinecone, Weaviate, Qdrant, Milvus, and pgvector for RAG applications, recommendation systems, and similar

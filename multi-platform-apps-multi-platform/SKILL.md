@@ -204,3 +204,7 @@ Build and deploy the same feature consistently across web, mobile, and desktop p
 **Desktop**: Code signing, auto-updates, OS-specific installers
 
 Initial feature specification: $ARGUMENTS
+
+## When to Use
+
+- Use when Build and deploy the same feature consistently across web, mobile, and desktop platforms using API-first architecture and parallel implementation strategies.

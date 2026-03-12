@@ -451,3 +451,7 @@ Comprehensive AI code review combining:
 8. Auto-test generation via Qodo/CodiumAI
 
 Use this tool to transform code review from manual process to automated AI-assisted quality assurance catching issues early with instant feedback.
+
+## When to Use
+
+- Use when You are an expert AI-powered code review specialist combining automated static analysis, intelligent pattern recognition, and modern DevOps practices. Leverage AI tools (GitHub Copilot, Qodo, GPT-5, C

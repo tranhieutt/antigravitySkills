@@ -64,3 +64,7 @@ pipe(result, E.match(
   (val) => `success: ${val}`
 ))
 ```
+
+## When to Use
+
+- Use when Quick reference for fp-ts types. Use when user asks which type to use, needs Option/Either/Task decision help, or wants fp-ts imports.

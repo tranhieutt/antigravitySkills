@@ -382,3 +382,7 @@ resource "grafana_folder" "monitoring" {
 
 - `prometheus-configuration` - For metric collection
 - `slo-implementation` - For SLO dashboards
+
+## When to Use
+
+- Use when Create and manage production Grafana dashboards for real-time visualization of system and application metrics. Use when building monitoring dashboards, visualizing metrics, or creating operational ...

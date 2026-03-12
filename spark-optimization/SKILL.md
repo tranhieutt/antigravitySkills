@@ -428,3 +428,7 @@ spark_configs = {
 - [Spark Performance Tuning](https://spark.apache.org/docs/latest/sql-performance-tuning.html)
 - [Spark Configuration](https://spark.apache.org/docs/latest/configuration.html)
 - [Databricks Optimization Guide](https://docs.databricks.com/en/optimizations/index.html)
+
+## When to Use
+
+- Use when Optimize Apache Spark jobs with partitioning, caching, shuffle optimization, and memory tuning. Use when improving Spark performance, debugging slow jobs, or scaling data processing pipelines.

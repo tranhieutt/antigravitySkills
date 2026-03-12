@@ -126,3 +126,7 @@ Short best-practice recipes live in the embedded docs:
 - https://voltagent.dev/docs
 - https://github.com/voltagent/voltagent
 - https://github.com/voltagent/voltagent/tree/main/examples
+
+## When to Use
+
+- Use when VoltAgent architectural patterns and conventions. Covers agents vs workflows, project layout, memory, servers, and observability.

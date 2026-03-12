@@ -479,3 +479,7 @@ PCI_COMPLIANCE_CHECKLIST = {
 5. **No Storage**: Never store full card details
 
 By minimizing systems that touch card data, you reduce compliance burden significantly.
+
+## When to Use
+
+- Use when Implement PCI DSS compliance requirements for secure handling of payment card data and payment systems. Use when securing payment processing, achieving PCI compliance, or implementing payment card ...

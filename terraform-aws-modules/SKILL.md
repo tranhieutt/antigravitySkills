@@ -76,3 +76,7 @@ terraform {
 
 **Problem:** State lock not released after a failed apply
 **Solution:** Run `terraform force-unlock <LOCK_ID>` after confirming no other operations are running.
+
+## When to Use
+
+- Use when Terraform module creation for AWS — reusable modules, state management, and HCL best practices. Use when building or reviewing Terraform AWS infrastructure.

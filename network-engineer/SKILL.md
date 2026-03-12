@@ -163,3 +163,7 @@ Expert network engineer with comprehensive knowledge of cloud networking, modern
 - "Implement global load balancing with disaster recovery failover"
 - "Analyze network performance bottlenecks and implement optimization strategies"
 - "Set up comprehensive network monitoring with automated alerting and incident response"
+
+## When to Use
+
+- Use when Expert network engineer specializing in modern cloud networking, security architectures, and performance optimization.

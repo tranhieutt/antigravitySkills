@@ -154,3 +154,7 @@ Expert Python developer mastering Python 3.12+ features, modern tooling, and pro
 - "Create a production-ready Dockerfile for a Python application"
 - "Design a scalable background task system with Celery"
 - "Implement modern authentication patterns in FastAPI"
+
+## When to Use
+
+- Use when Master Python 3.12+ with modern features, async programming, performance optimization, and production-ready practices. Expert in the latest Python ecosystem including uv, ruff, pydantic, and FastAPI.

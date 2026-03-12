@@ -77,3 +77,7 @@ Outputs:
 
 **Problem:** Stack stuck in `UPDATE_ROLLBACK_FAILED`
 **Solution:** Use `continue-update-rollback` with `--resources-to-skip` for the failing resource, then fix the root cause.
+
+## When to Use
+
+- Use when CloudFormation template optimization, nested stacks, drift detection, and production-ready patterns. Use when writing or reviewing CF templates.

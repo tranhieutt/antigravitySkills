@@ -248,3 +248,7 @@ if let Event::NextFrame(ne) = event {
 3. Use `cx.capture_actions()` to intercept child actions
 4. `Cx::post_action()` is thread-safe for async operations
 5. `DefaultNone` derive macro auto-implements Default for enums
+
+## When to Use
+
+- Use when |

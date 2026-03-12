@@ -256,3 +256,7 @@ If `gh` command fails:
   EOF
   )"
   ```
+
+## When to Use
+
+- Use when Interact with GitHub issues - create, list, and view issues.

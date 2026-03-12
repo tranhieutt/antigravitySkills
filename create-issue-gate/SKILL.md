@@ -87,3 +87,7 @@ Execution workflows (for example `closed-loop-delivery`) may start only when:
 - execution gate is `allowed`
 
 If issue is `draft`, stop and request user-provided acceptance criteria.
+
+## When to Use
+
+- Use when Use when starting a new implementation task and an issue must be created with strict acceptance criteria gating before execution.

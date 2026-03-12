@@ -243,3 +243,7 @@ This command pairs well with:
 - Quality depends on data availability - explain limitations
 - Update annually as market evolves
 - Conservative estimates build credibility with investors
+
+## When to Use
+
+- Use when Generate comprehensive market opportunity analysis with TAM/SAM/SOM

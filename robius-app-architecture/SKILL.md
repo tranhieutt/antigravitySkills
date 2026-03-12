@@ -326,3 +326,7 @@ impl AppMain for App {
   - `AbortOnDropHandle` for task cancellation
   - `ThreadToken` for non-Send types on WASM
   - `spawn()` platform-agnostic function
+
+## When to Use
+
+- Use when |

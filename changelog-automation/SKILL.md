@@ -39,3 +39,7 @@ Patterns and tools for automating changelog generation, release notes, and versi
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed patterns, templates, and examples.
+
+## When to Use
+
+- Use when Automate changelog generation from commits, PRs, and releases following Keep a Changelog format. Use when setting up release workflows, generating release notes, or standardizing commit conventions.

@@ -217,3 +217,7 @@ The tool is designed with a plugin-based architecture, allowing easy addition of
 ## Invocation
 
 Target for review: $ARGUMENTS
+
+## When to Use
+
+- Use when Use when working with performance testing review multi agent review

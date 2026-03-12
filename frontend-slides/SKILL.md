@@ -217,3 +217,7 @@ When converting PowerPoint files:
 | html-template.md | HTML structure, JS features, code quality standards | Phase 3 (generation) |
 | animation-patterns.md | CSS/JS animation snippets and effect-to-feeling guide | Phase 3 (generation) |
 | scripts/extract-pptx.py | Python script for PPT content extraction | Phase 4 (conversion) |
+
+## When to Use
+
+- Use when Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files. Use when the user wants to build a presentation, convert a PPT/PPTX to web, or create slides for a talk/pitch. Helps non-designers discover their aesthetic through visual...

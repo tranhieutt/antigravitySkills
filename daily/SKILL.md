@@ -301,3 +301,7 @@ Pipecat integrates with:
 ---
 
 > For additional documentation and navigation, see: https://docs.pipecat.ai/llms.txt
+
+## When to Use
+
+- Use when Documentation and capabilities reference for Daily

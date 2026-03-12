@@ -81,3 +81,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
 
 **Problem:** Service worker becomes inactive.
 **Solution:** Background service workers are ephemeral. Use `chrome.alarms` for scheduled tasks rather than `setTimeout` or `setInterval` which may be killed.
+
+## When to Use
+
+- Use when Expert in building Chrome Extensions using Manifest V3. Covers background scripts, service workers, content scripts, and cross-context communication.

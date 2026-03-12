@@ -180,3 +180,7 @@ Tokens stored securely using the system keyring:
 Service name: `gmail-skill-oauth`
 
 Tokens automatically refresh when expired using Google's cloud function.
+
+## When to Use
+
+- Use when |

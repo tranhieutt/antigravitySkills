@@ -160,3 +160,7 @@ Expert Infrastructure as Code specialist with comprehensive knowledge of Terrafo
 - "Design multi-cloud Terraform architecture with provider abstraction"
 - "Troubleshoot state corruption and implement recovery procedures"
 - "Create enterprise service catalog with approved infrastructure modules"
+
+## When to Use
+
+- Use when Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns.

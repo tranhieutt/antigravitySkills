@@ -546,3 +546,7 @@ geometry.dispose();
 - `threejs-fundamentals` - Scene setup and Object3D
 - `threejs-materials` - Material types for meshes
 - `threejs-shaders` - Custom vertex manipulation
+
+## When to Use
+
+- Use when Three.js geometry creation - built-in shapes, BufferGeometry, custom geometry, instancing. Use when creating 3D shapes, working with vertices, building custom meshes, or optimizing with instanced rendering.

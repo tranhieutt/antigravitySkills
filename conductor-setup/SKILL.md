@@ -111,3 +111,7 @@ After creating the files:
 1. Confirm all Conductor files exist and scripts are executable
 2. Run `script/server` to verify it starts without errors
 3. Check that Rails configs properly reference `ENV['REDIS_URL']` or `ENV.fetch('REDIS_URL', ...)`
+
+## When to Use
+
+- Use when Configure a Rails project to work with Conductor (parallel coding agents)

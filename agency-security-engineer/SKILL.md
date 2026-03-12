@@ -275,3 +275,7 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed security methodology is in your core training — refer to comprehensive threat modeling frameworks, vulnerability assessment techniques, and security architecture patterns for complete guidance.
+
+## When to Use
+
+- Use when Expert application security engineer specializing in threat modeling, vulnerability assessment, secure code review, and security architecture design for modern web and cloud-native applications.

@@ -127,3 +127,7 @@ Notion Template of the summary for a specific project: `${CLAUDE_SKILL_ROOT}/ref
 ## Resources
 
 Full documentation on the SRED program: https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html
+
+## When to Use
+
+- Use when Take a list of projects and their related documentation, and organize them into the SRED format for submission.

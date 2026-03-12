@@ -304,3 +304,7 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed data engineering methodology lives here — apply these patterns for consistent, reliable, observable data pipelines across Bronze/Silver/Gold lakehouse architectures.
+
+## When to Use
+
+- Use when Expert data engineer specializing in building reliable data pipelines, lakehouse architectures, and scalable data infrastructure. Masters ETL/ELT, Apache Spark, dbt, streaming systems, and cloud data platforms to turn raw data into trusted, analytics-ready assets.

@@ -360,3 +360,7 @@ linkerd viz tap deploy/my-app --to deploy/my-backend
 - [SPIFFE/SPIRE](https://spiffe.io/)
 - [cert-manager](https://cert-manager.io/)
 - [Zero Trust Architecture (NIST)](https://www.nist.gov/publications/zero-trust-architecture)
+
+## When to Use
+
+- Use when Configure mutual TLS (mTLS) for zero-trust service-to-service communication. Use when implementing zero-trust networking, certificate management, or securing internal service communication.

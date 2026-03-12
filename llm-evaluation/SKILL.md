@@ -484,3 +484,7 @@ class BenchmarkRunner:
 - **Data Contamination**: Testing on training data
 - **Ignoring Variance**: Not accounting for statistical uncertainty
 - **Metric Mismatch**: Using metrics not aligned with business goals
+
+## When to Use
+
+- Use when Implement comprehensive evaluation strategies for LLM applications using automated metrics, human feedback, and benchmarking. Use when testing LLM performance, measuring AI application quality, or ...

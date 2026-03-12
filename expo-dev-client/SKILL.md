@@ -162,3 +162,7 @@ eas build -p ios --profile development --clear-cache
 eas --version
 eas update
 ```
+
+## When to Use
+
+- Use when Build and distribute Expo development clients locally or via TestFlight

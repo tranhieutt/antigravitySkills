@@ -167,3 +167,7 @@ Response: For authorized analysis of the DLL:
    - Map data structures
    - Note any security considerations
 ```
+
+## When to Use
+
+- Use when Expert reverse engineer specializing in binary analysis, disassembly, decompilation, and software analysis. Masters IDA Pro, Ghidra, radare2, x64dbg, and modern RE toolchains.

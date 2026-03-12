@@ -108,3 +108,7 @@ Commands:
 ```
 
 The `hf` CLI command has replaced the now deprecated `huggingface_hub` CLI command.
+
+## When to Use
+
+- Use when Use this skill when the user wants to build tool/scripts or achieve a task where using data from the Hugging Face API would help. This is especially useful when chaining or combining API calls or the task will be repeated/automated. This Skill creates a reusable script to...

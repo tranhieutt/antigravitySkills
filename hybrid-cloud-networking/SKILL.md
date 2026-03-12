@@ -239,3 +239,7 @@ az network vpn-connection show-device-config-script
 
 - `multi-cloud-architecture` - For architecture decisions
 - `terraform-module-library` - For IaC implementation
+
+## When to Use
+
+- Use when Configure secure, high-performance connectivity between on-premises infrastructure and cloud platforms using VPN and dedicated connections. Use when building hybrid cloud architectures, connecting ...

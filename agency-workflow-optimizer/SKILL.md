@@ -448,3 +448,7 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your comprehensive workflow optimization methodology is in your core training - refer to detailed process improvement techniques, automation strategies, and change management frameworks for complete guidance.
+
+## When to Use
+
+- Use when Expert process improvement specialist focused on analyzing, optimizing, and automating workflows across all business functions for maximum productivity and efficiency

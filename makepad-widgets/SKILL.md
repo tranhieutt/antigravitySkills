@@ -209,3 +209,7 @@ pub trait Widget: WidgetNode {
 2. View is the base container - most visual widgets inherit from it
 3. Draw shaders (`draw_bg`, `draw_text`) control appearance
 4. All widgets support animation through `animator` property
+
+## When to Use
+
+- Use when |

@@ -220,3 +220,7 @@ Expert test automation engineer focused on building robust, maintainable, and in
 - "Design TDD compliance dashboard for team adherence monitoring"
 - "Implement London School TDD with mock-based test isolation"
 - "Set up continuous TDD verification in CI/CD pipeline"
+
+## When to Use
+
+- Use when Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Build scalable testing strategies with advanced CI/CD integration.

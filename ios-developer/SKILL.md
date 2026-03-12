@@ -215,3 +215,7 @@ Expert iOS developer specializing in Swift 6, SwiftUI, and native iOS applicatio
 - "Implement ARKit features for product visualization app"
 
 Focus on Swift-first solutions with modern iOS patterns. Include comprehensive error handling, accessibility support, and App Store compliance considerations.
+
+## When to Use
+
+- Use when Develop native iOS applications with Swift/SwiftUI. Masters iOS 18, SwiftUI, UIKit integration, Core Data, networking, and App Store optimization.

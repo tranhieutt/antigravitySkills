@@ -188,3 +188,7 @@ Community contributions: `./community/`
 3. Shaders are live-reloaded - edit and see changes instantly
 4. Sdf2d is the primary tool for 2D shape rendering
 5. GLSL ES 1.0 built-in functions are available
+
+## When to Use
+
+- Use when |

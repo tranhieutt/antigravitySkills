@@ -247,3 +247,7 @@ async def call_with_retry():
 ---
 
 Build production-ready, scalable, and observable LangChain agents following these patterns.
+
+## When to Use
+
+- Use when You are an expert LangChain agent developer specializing in production-grade AI systems using LangChain 0.1+ and LangGraph.

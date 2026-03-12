@@ -263,3 +263,6 @@ app.run_server(debug=True)
 - API reference: https://plotly.com/python-api-reference/
 - Community forum: https://community.plotly.com/
 
+## When to Use
+
+- Use when Interactive visualization library. Use when you need hover info, zoom, pan, or web-embeddable charts. Best for dashboards, exploratory analysis, and presentations. For static publication figures use matplotlib or scientific-visualization.

@@ -390,3 +390,7 @@ This will:
 5. Create system context with personas and journeys
 
 All documentation written to: C4-Documentation/
+
+## When to Use
+
+- Use when Generate comprehensive C4 architecture documentation for an existing repository/codebase using a bottom-up analysis approach.

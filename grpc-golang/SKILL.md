@@ -102,3 +102,7 @@ message GetUserResponse {
 - @go-concurrency-patterns - Advanced goroutine lifecycle management for streaming handlers.
 - @api-design-principles - Resource naming and versioning strategy before writing `.proto` files.
 - @docker-expert - Containerizing gRPC services and configuring TLS cert injection via Docker secrets.
+
+## When to Use
+
+- Use when Build production-ready gRPC services in Go with mTLS, streaming, and observability. Use when designing Protobuf contracts with Buf or implementing secure service-to-service transport.

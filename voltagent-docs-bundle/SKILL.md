@@ -95,3 +95,7 @@ cat node_modules/@voltagent/core/docs/getting-started/quick-start.md
 - Docs are bundled with the installed version
 - Avoids web drift and outdated content
 - Covers the full doc surface (guides, recipes, platform docs)
+
+## When to Use
+
+- Use when Look up VoltAgent documentation embedded in node_modules/@voltagent/core/docs for version-matched docs. Use for API signatures, guides, and examples.

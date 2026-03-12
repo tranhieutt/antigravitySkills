@@ -36,3 +36,7 @@ Comprehensive guide to implementing CQRS (Command Query Responsibility Segregati
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed CQRS patterns and templates.
+
+## When to Use
+
+- Use when Implement Command Query Responsibility Segregation for scalable architectures. Use when separating read and write models, optimizing query performance, or building event-sourced systems.

@@ -43,3 +43,7 @@ Refer to `resources/implementation-playbook.md` for detailed techniques and exam
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed techniques and examples.
+
+## When to Use
+
+- Use when Understand anti-reversing, obfuscation, and protection techniques encountered during software analysis. Use when analyzing protected binaries, bypassing anti-debugging for authorized analysis, or u...

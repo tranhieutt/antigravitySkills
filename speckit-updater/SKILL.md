@@ -163,3 +163,7 @@ pwsh -NoProfile -Command "& '{skill_path}/scripts/update-wrapper.ps1' [parameter
 | 4 | Git error |
 | 5 | User cancelled |
 | 6 | Rollback required (automatic) |
+
+## When to Use
+
+- Use when SpecKit Safe Update

@@ -356,3 +356,7 @@ Growth assumptions?
 - Share with investors and board
 - Use for fundraising decks
 - Basis for budget and hiring decisions
+
+## When to Use
+
+- Use when Create detailed 3-5 year financial model with revenue, costs, cash

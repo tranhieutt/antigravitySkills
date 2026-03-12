@@ -169,3 +169,7 @@ Orchestrate multi-agent incident response with modern SRE practices for rapid re
 - Timestamp all significant events
 
 Production incident requiring immediate response: $ARGUMENTS
+
+## When to Use
+
+- Use when Use when working with incident response incident response

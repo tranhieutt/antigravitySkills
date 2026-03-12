@@ -190,3 +190,7 @@ AWS / Azure / GCP
 - `terraform-module-library` - For IaC implementation
 - `cost-optimization` - For cost management
 - `hybrid-cloud-networking` - For connectivity
+
+## When to Use
+
+- Use when Design multi-cloud architectures using a decision framework to select and integrate services across AWS, Azure, and GCP. Use when building multi-cloud systems, avoiding vendor lock-in, or leveragin...

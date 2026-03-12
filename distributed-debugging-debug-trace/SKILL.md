@@ -45,3 +45,7 @@ $ARGUMENTS
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed tooling and configuration patterns.
+
+## When to Use
+
+- Use when You are a debugging expert specializing in setting up comprehensive debugging environments, distributed tracing, and diagnostic tools. Configure debugging workflows, implement tracing solutions, an...

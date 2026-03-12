@@ -416,3 +416,7 @@ If yes to any, evolve the appropriate skill!
 - [makepad-skills repository](https://github.com/ZhangHanDong/makepad-skills)
 - [Makepad documentation](https://github.com/makepad/makepad)
 - [Project Robius](https://github.com/project-robius)
+
+## When to Use
+
+- Use when |

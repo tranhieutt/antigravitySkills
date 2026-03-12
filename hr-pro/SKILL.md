@@ -122,3 +122,7 @@ Output a single Markdown package with:
 - **Not a substitute for licensed legal advice**; **consult local counsel** on high-risk or jurisdiction-specific matters (terminations, protected leaves, immigration, works councils/unions, international data transfers).
 - Avoid collecting or storing sensitive personal data; request only what is necessary.
 - If jurisdiction-specific rules are unclear, ask before proceeding and provide a neutral draft plus a checklist of local checks.
+
+## When to Use
+
+- Use when Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations.

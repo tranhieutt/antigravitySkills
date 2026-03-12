@@ -183,3 +183,7 @@ If any link is broken, mark MEDIUM (needs verification) or drop the finding.
 ````
 
 If no findings: "No exploitable vulnerabilities identified. All workflows reviewed and cleared."
+
+## When to Use
+
+- Use when GitHub Actions security review for workflow exploitation vulnerabilities. Use when asked to "review GitHub Actions", "audit workflows", "check CI security", "GHA security", "workflow security review", or review .github/workflows/ for pwn requests, expression injection,...

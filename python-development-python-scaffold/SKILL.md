@@ -332,3 +332,7 @@ clean:
 6. **Development Tools**: Makefile, .env.example, .gitignore
 
 Focus on creating production-ready Python projects with modern tooling, type safety, and comprehensive testing setup.
+
+## When to Use
+
+- Use when You are a Python project architecture expert specializing in scaffolding production-ready Python applications. Generate complete project structures with modern tooling (uv, FastAPI, Django), type hint

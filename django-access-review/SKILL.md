@@ -342,3 +342,7 @@ Use this to guide your review, not as a pass/fail checklist:
 □ I've verified my findings by checking parent classes and middleware
 □ I've only reported issues I've confirmed through investigation
 ```
+
+## When to Use
+
+- Use when django-access-review

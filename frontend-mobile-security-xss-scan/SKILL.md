@@ -323,3 +323,7 @@ class XSSReportGenerator {
 5. **Prevention Checklist**: Best practices for XSS prevention
 
 Focus on identifying XSS attack vectors, providing actionable fixes, and establishing secure coding patterns.
+
+## When to Use
+
+- Use when You are a frontend security specialist focusing on Cross-Site Scripting (XSS) vulnerability detection and prevention. Analyze React, Vue, Angular, and vanilla JavaScript code to identify injection poi

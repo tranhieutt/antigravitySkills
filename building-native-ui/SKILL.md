@@ -319,3 +319,7 @@ export default function Layout({ segment }) {
   );
 }
 ```
+
+## When to Use
+
+- Use when Complete guide for building beautiful apps with Expo Router. Covers fundamentals, styling, components, navigation, animations, patterns, and native tabs.

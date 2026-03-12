@@ -50,3 +50,7 @@ log!("State: {} / {}", self.counter, self.is_loading);
 - [Makepad Repository](https://github.com/makepad/makepad)
 - [Robrix](https://github.com/project-robius/robrix) - Production reference
 - [Moly](https://github.com/moxin-org/moly) - Production reference
+
+## When to Use
+
+- Use when |

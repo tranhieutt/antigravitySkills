@@ -192,3 +192,7 @@ var status = order.State switch
     _ => "Unknown"
 };
 ```
+
+## When to Use
+
+- Use when Expert .NET backend architect specializing in C#, ASP.NET Core, Entity Framework, Dapper, and enterprise application patterns.

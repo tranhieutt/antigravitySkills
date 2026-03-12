@@ -43,3 +43,7 @@ Works well with: `event-sourcing-architect`, `saga-orchestration`, `workflow-aut
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed patterns, checklists, and templates.
+
+## When to Use
+
+- Use when Implement proven backend architecture patterns including Clean Architecture, Hexagonal Architecture, and Domain-Driven Design. Use when architecting complex backend systems or refactoring existing ...

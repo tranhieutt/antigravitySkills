@@ -38,3 +38,7 @@ Manage the complete track lifecycle including archiving, restoring, deleting, re
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed modes, prompts, and workflows.
+
+## When to Use
+
+- Use when Manage track lifecycle: archive, restore, delete, rename, and cleanup

@@ -387,3 +387,7 @@ If implementation is paused and resumed:
 4. **Keep plan.md updated** - Task status must reflect actual progress
 5. **Commit frequently** - Each task completion should be committed
 6. **Track all commits** - Record commit hashes in metadata.json for potential revert
+
+## When to Use
+
+- Use when Execute tasks from a track's implementation plan following TDD workflow

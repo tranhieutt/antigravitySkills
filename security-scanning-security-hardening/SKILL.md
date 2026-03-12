@@ -148,3 +148,7 @@ Implement comprehensive security hardening with defense-in-depth strategy throug
 - Regular security reviews scheduled post-implementation
 
 Security hardening target: $ARGUMENTS
+
+## When to Use
+
+- Use when Coordinate multi-layer security scanning and hardening across application, infrastructure, and compliance controls.

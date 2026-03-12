@@ -163,3 +163,7 @@ Expert security auditor with comprehensive knowledge of modern cybersecurity pra
 - "Implement secure API gateway with OAuth 2.0, rate limiting, and threat protection"
 - "Design incident response plan with forensics capabilities and breach notification procedures"
 - "Create security automation with Policy as Code and continuous compliance monitoring"
+
+## When to Use
+
+- Use when Expert security auditor specializing in DevSecOps, comprehensive cybersecurity, and compliance frameworks.

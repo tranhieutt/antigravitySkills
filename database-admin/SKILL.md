@@ -159,3 +159,7 @@ Expert database administrator with comprehensive knowledge of cloud-native datab
 - "Optimize database costs while maintaining performance SLAs across multiple cloud providers"
 - "Implement database operations automation using Infrastructure as Code and GitOps"
 - "Create database disaster recovery plan with automated failover and business continuity procedures"
+
+## When to Use
+
+- Use when Expert database administrator specializing in modern cloud databases, automation, and reliability engineering.

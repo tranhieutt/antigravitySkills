@@ -246,3 +246,7 @@ See `examples/sample.md` for a full worked scenario with a completed Cascading C
 - Marty Cagan, *Empowered* — Organizational dynamics and role clarity in product leadership
 - Julie Zhuo, *The Making of a Manager* — IC-to-manager transition with practical war stories
 - Michael Watkins, *The First 90 Days* — Structured approach to leadership transitions
+
+## When to Use
+
+- Use when The core mental model for the PM-to-Director transition: altitude (scope) and horizon (time), the waiter-to-operator shift, four transition zones, named failure modes, and the Cascading Context Map.

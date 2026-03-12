@@ -405,3 +405,7 @@ curl 'http://localhost:9090/api/v1/query?query=up'
 - `grafana-dashboards` - For visualization
 - `slo-implementation` - For SLO monitoring
 - `distributed-tracing` - For request tracing
+
+## When to Use
+
+- Use when Set up Prometheus for comprehensive metric collection, storage, and monitoring of infrastructure and applications. Use when implementing metrics collection, setting up monitoring infrastructure, or...

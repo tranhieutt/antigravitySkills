@@ -682,3 +682,7 @@ A: No. Knowledge base articles are referenced via URLs, requiring network connec
 
 **Q: Where are API credentials stored?**
 A: API credentials are encrypted and stored in local configuration files, not uploaded to any server.
+
+## When to Use
+
+- Use when Integrate digital health data sources (Apple Health, Fitbit, Oura Ring) and connect to WellAlly.tech knowledge base. Import external health device data, standardize to local format, and recommend relevant WellAlly.tech knowledge base articles based on health data. Support...

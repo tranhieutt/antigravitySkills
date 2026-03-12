@@ -166,3 +166,7 @@ Avoid these common mistakes:
 
 - [Sentry Voice Guidelines](https://develop.sentry.dev/frontend/sentry-voice/)
 - [Sentry Frontend Handbook](https://develop.sentry.dev/frontend/)
+
+## When to Use
+
+- Use when Write copy following Sentry brand guidelines. Use when writing UI text, error messages, empty states, onboarding flows, 404 pages, documentation, marketing copy, or any user-facing content. Covers both Plain Speech (default) and Sentry Voice tones.

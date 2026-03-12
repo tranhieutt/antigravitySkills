@@ -540,3 +540,7 @@ uv run scripts/dataset_manager.py add_rows \
   --template qa \
   --rows_json "$(cat processed_data.json)"
 ```
+
+## When to Use
+
+- Use when Create and manage datasets on Hugging Face Hub. Supports initializing repos, defining configs/system prompts, streaming row updates, and SQL-based dataset querying/transformation. Designed to work alongside HF MCP server for comprehensive dataset workflows.

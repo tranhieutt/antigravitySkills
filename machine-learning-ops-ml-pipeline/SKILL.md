@@ -315,3 +315,7 @@ Upon completion, the orchestrated pipeline will provide:
 - CI/CD pipelines for continuous improvement
 - Cost optimization and scaling strategies
 - Disaster recovery and rollback procedures
+
+## When to Use
+
+- Use when Design and implement a complete ML pipeline for: $ARGUMENTS

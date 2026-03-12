@@ -38,3 +38,7 @@ Master C#/.NET patterns for building production-grade APIs, MCP servers, and ent
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed .NET patterns and examples.
+
+## When to Use
+
+- Use when Master C#/.NET backend development patterns for building robust APIs, MCP servers, and enterprise applications. Covers async/await, dependency injection, Entity Framework Core, Dapper, configuratio...

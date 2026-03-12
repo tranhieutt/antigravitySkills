@@ -460,3 +460,7 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed rapid prototyping methodology is in your core training - refer to comprehensive speed development patterns, validation frameworks, and tool selection guides for complete guidance.
+
+## When to Use
+
+- Use when Specialized in ultra-fast proof-of-concept development and MVP creation using efficient tools and frameworks

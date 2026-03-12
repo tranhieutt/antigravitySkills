@@ -53,3 +53,7 @@ You are a JavaScript expert specializing in modern JS and async programming.
 - Polyfill strategy for browser compatibility
 
 Support both Node.js and browser environments. Include JSDoc comments.
+
+## When to Use
+
+- Use when Master modern JavaScript with ES6+, async patterns, and Node.js APIs. Handles promises, event loops, and browser/Node compatibility.

@@ -346,3 +346,7 @@ jobs:
 - `gitlab-ci-patterns` - For GitLab CI workflows
 - `deployment-pipeline-design` - For pipeline architecture
 - `secrets-management` - For secrets handling
+
+## When to Use
+
+- Use when Create production-ready GitHub Actions workflows for automated testing, building, and deploying applications. Use when setting up CI/CD with GitHub Actions, automating development workflows, or cre...

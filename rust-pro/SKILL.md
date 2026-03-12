@@ -174,3 +174,7 @@ Expert Rust developer mastering Rust 1.75+ features, advanced type system usage,
 - "Design a plugin system with dynamic loading and type safety"
 - "Implement a custom allocator for a specific use case"
 - "Debug and fix lifetime issues in this complex generic code"
+
+## When to Use
+
+- Use when Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming.

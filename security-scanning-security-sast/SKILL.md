@@ -494,3 +494,7 @@ sast:
 - **security-owasp.md** - OWASP Top 10 assessment
 - **security-api.md** - API security testing
 - **security-scan.md** - Comprehensive security scanning
+
+## When to Use
+
+- Use when Static Application Security Testing (SAST) for code vulnerability

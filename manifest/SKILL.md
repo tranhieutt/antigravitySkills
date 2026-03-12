@@ -125,3 +125,7 @@ Use @manifest to connect my agent to my self-hosted Manifest instance at https:/
 - The default endpoint works for most users — only change it if self-hosting
 - API keys always start with `mnfst_` — any other format is invalid
 - Check gateway logs first when debugging any plugin issue
+
+## When to Use
+
+- Use when Install and configure the Manifest observability plugin for your agents. Use when setting up telemetry, configuring API keys, or troubleshooting the plugin.

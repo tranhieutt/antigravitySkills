@@ -398,3 +398,7 @@ bazel build //... --notrack_incremental_state
 - [Bazel Documentation](https://bazel.build/docs)
 - [Bazel Remote Execution](https://bazel.build/docs/remote-execution)
 - [rules_js](https://github.com/aspect-build/rules_js)
+
+## When to Use
+
+- Use when Optimize Bazel builds for large-scale monorepos. Use when configuring Bazel, implementing remote execution, or optimizing build performance for enterprise codebases.

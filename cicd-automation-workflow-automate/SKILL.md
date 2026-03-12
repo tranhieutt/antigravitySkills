@@ -52,3 +52,7 @@ $ARGUMENTS
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed workflow patterns and examples.
+
+## When to Use
+
+- Use when You are a workflow automation expert specializing in creating efficient CI/CD pipelines, GitHub Actions workflows, and automated development processes. Design automation that reduces manual work, i...

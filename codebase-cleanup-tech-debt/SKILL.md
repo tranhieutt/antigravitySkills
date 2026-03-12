@@ -387,3 +387,7 @@ Track progress with clear KPIs:
 7. **ROI Projections**: Expected returns on debt reduction investment
 
 Focus on delivering measurable improvements that directly impact development velocity, system reliability, and team morale.
+
+## When to Use
+
+- Use when You are a technical debt expert specializing in identifying, quantifying, and prioritizing technical debt in software projects. Analyze the codebase to uncover debt, assess its impact, and create acti

@@ -160,3 +160,7 @@ impl AppMain for App {
 3. Platform-specific code is in `platform/src/os/` directory
 4. Use `cx.os_type()` for runtime platform detection
 5. Use `#[cfg(target_os = "...")]` for compile-time platform detection
+
+## When to Use
+
+- Use when |

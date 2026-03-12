@@ -301,3 +301,7 @@ Use `[ ]` test command with POSIX operators:
 
 ### Tools & Testing
 - [checkbashisms](https://manpages.debian.org/testing/devscripts/checkbashisms.1.en.html) - Detect bash-specific constructs
+
+## When to Use
+
+- Use when Expert in strict POSIX sh scripting for maximum portability across Unix-like systems. Specializes in shell scripts that run on any POSIX-compliant shell (dash, ash, sh, bash --posix).

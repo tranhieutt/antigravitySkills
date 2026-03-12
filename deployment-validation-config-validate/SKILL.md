@@ -497,3 +497,7 @@ class ConfigDocGenerator:
 7. **Documentation**: Auto-generated reference
 
 Focus on preventing configuration errors, ensuring consistency, and maintaining security best practices.
+
+## When to Use
+
+- Use when You are a configuration management expert specializing in validating, testing, and ensuring the correctness of application configurations. Create comprehensive validation schemas, implement configurat

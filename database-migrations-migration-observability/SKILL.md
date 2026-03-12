@@ -418,3 +418,7 @@ This plugin integrates with:
 - **sql-migrations**: Provides observability for SQL migrations
 - **nosql-migrations**: Monitors NoSQL transformations
 - **migration-integration**: Coordinates monitoring across workflows
+
+## When to Use
+
+- Use when Migration monitoring, CDC, and observability infrastructure

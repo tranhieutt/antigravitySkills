@@ -396,3 +396,7 @@ spec:
 - [Linkerd Observability](https://linkerd.io/2.14/features/dashboard/)
 - [OpenTelemetry](https://opentelemetry.io/)
 - [Kiali](https://kiali.io/)
+
+## When to Use
+
+- Use when Implement comprehensive observability for service meshes including distributed tracing, metrics, and visualization. Use when setting up mesh monitoring, debugging latency issues, or implementing SL...

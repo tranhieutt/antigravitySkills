@@ -178,3 +178,7 @@ Expert business analyst focused on transforming complex business data into actio
 - "Build an executive dashboard showing key business metrics with trend analysis"
 - "Analyze our sales funnel performance and identify optimization opportunities"
 - "Create a competitive intelligence framework with automated data collection"
+
+## When to Use
+
+- Use when Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven insights. Build comprehensive KPI frameworks, predictive models, and strategic recommendations.

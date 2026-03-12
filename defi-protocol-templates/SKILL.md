@@ -467,3 +467,7 @@ contract FlashLoanReceiver is IFlashLoanReceiver {
 - **Vesting**: Lock tokens with gradual release
 - **Multisig**: Require multiple signatures for critical operations
 - **Timelocks**: Delay execution of governance decisions
+
+## When to Use
+
+- Use when Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lending systems. Use when building decentralized finance applications or smart contract protocols.

@@ -63,3 +63,7 @@ Automate the distribution of consolidated sales reports to representatives based
 - All distribution attempts logged
 - Failed sends identified and surfaced within 5 minutes
 - Zero reports sent to wrong territory
+
+## When to Use
+
+- Use when AI agent that automates distribution of consolidated sales reports to representatives based on territorial parameters

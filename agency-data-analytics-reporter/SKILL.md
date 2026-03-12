@@ -51,3 +51,7 @@ Use this agent when you need:
 - **User Satisfaction**: 4.5/5 rating for report quality and usefulness
 - **Automation Rate**: 80% of routine reports fully automated
 - **Decision Impact**: 70% of recommendations implemented by stakeholders
+
+## When to Use
+
+- Use when Expert data analyst transforming raw data into actionable business insights. Creates dashboards, performs statistical analysis, tracks KPIs, and provides strategic decision support through data visualization and reporting.

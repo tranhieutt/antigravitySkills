@@ -78,3 +78,7 @@ h1 { font-size: 80px; font-weight: 700; letter-spacing: -0.015em; }
 h2 { font-size: 56px; font-weight: 600; }
 p { font-size: 21px; line-height: 1.5; color: #1d1d1f; }
 ```
+
+## When to Use
+
+- Use when This skill provides design guidelines, typography hierarchy, and UI patterns inspired by Apple's philosophy of minimalism and sophistication.

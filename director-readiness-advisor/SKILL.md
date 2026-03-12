@@ -347,3 +347,7 @@ See `examples/conversation-flow.md` for a full end-to-end interaction, including
 - Marty Cagan, *Empowered* — Organizational dynamics and role clarity
 - Julie Zhuo, *The Making of a Manager* — IC-to-manager transition
 - Michael Watkins, *The First 90 Days* — Structured approach to leadership transitions
+
+## When to Use
+
+- Use when Coaches PMs and new Directors through the transition from individual contributor to organizational leader across four situations: preparing, interviewing, newly landed, or recalibrating.

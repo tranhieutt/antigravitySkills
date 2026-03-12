@@ -426,3 +426,7 @@ async fn build_client(
   - Tool approval flow
   - MolyClient for local server
   - BotContext for multi-provider support
+
+## When to Use
+
+- Use when |

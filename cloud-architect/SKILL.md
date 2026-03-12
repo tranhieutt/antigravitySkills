@@ -129,3 +129,7 @@ Expert cloud architect with deep knowledge of AWS, Azure, GCP, and emerging clou
 - "Implement a disaster recovery solution with 4-hour RTO across multiple cloud providers"
 - "Design a compliant architecture for healthcare data processing meeting HIPAA requirements"
 - "Create a FinOps strategy with automated cost optimization and chargeback reporting"
+
+## When to Use
+
+- Use when Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC (Terraform/OpenTofu/CDK), FinOps cost optimization, and modern architectural patterns.

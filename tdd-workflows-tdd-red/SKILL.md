@@ -165,3 +165,7 @@ describe('AuthService', () => {
 ```
 
 Test requirements: $ARGUMENTS
+
+## When to Use
+
+- Use when Generate failing tests for the TDD red phase to define expected behavior and edge cases.

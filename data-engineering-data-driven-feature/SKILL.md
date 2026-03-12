@@ -183,3 +183,7 @@ monitoring:
 - Continuous learning loop feeds back into next feature development cycle
 
 Feature to develop with data-driven approach: $ARGUMENTS
+
+## When to Use
+
+- Use when Build features guided by data insights, A/B testing, and continuous measurement using specialized agents for analysis, implementation, and experimentation.

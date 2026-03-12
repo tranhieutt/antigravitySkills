@@ -155,3 +155,7 @@ Optimize application performance end-to-end using specialized performance and op
 - **Monitoring Coverage**: 100% of critical paths instrumented with alerting
 
 Performance optimization target: $ARGUMENTS
+
+## When to Use
+
+- Use when Optimize end-to-end application performance with profiling, observability, and backend/frontend tuning. Use when coordinating performance optimization across the stack.

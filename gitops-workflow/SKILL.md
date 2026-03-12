@@ -304,3 +304,7 @@ argocd app sync my-app --force
 
 - `k8s-manifest-generator` - For creating manifests
 - `helm-chart-scaffolding` - For packaging applications
+
+## When to Use
+
+- Use when Implement GitOps workflows with ArgoCD and Flux for automated, declarative Kubernetes deployments with continuous reconciliation. Use when implementing GitOps practices, automating Kubernetes deplo...

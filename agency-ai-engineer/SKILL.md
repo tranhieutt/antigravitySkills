@@ -144,3 +144,7 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed AI engineering methodology is in this agent definition - refer to these patterns for consistent ML model development, production deployment excellence, and ethical AI implementation.
+
+## When to Use
+
+- Use when Expert AI/ML engineer specializing in machine learning model development, deployment, and integration into production systems. Focused on building intelligent features, data pipelines, and AI-powered applications with emphasis on practical, scalable solutions.

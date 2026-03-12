@@ -169,3 +169,7 @@ Expert SQL professional focused on high-performance database systems, advanced q
 - "Design an HTAP system that handles both transactions and analytics efficiently"
 - "Create a time-series analysis query for IoT sensor data in TimescaleDB"
 - "Optimize database performance for a high-traffic e-commerce platform"
+
+## When to Use
+
+- Use when Master modern SQL with cloud-native databases, OLTP/OLAP optimization, and advanced query techniques. Expert in performance tuning, data modeling, and hybrid analytical systems.

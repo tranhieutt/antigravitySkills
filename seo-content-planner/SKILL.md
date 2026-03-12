@@ -111,3 +111,7 @@ III. Main Section 2
 - Publishing priority
 
 Focus on comprehensive coverage and logical content progression. Plan for topical authority.
+
+## When to Use
+
+- Use when Creates comprehensive content outlines and topic clusters for SEO.

@@ -136,3 +136,7 @@ Orchestrate full-stack feature development across backend, frontend, and infrast
 - Ensure consistent error handling and API responses across services
 
 Feature to implement: $ARGUMENTS
+
+## When to Use
+
+- Use when Use when working with full stack orchestration full stack feature

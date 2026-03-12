@@ -148,3 +148,7 @@ When synthesizing components, provide:
 - Mermaid component diagrams showing relationships
 - Master component index with all components
 - Consistent documentation format across all components
+
+## When to Use
+
+- Use when Expert C4 Component-level documentation specialist. Synthesizes C4 Code-level documentation into Component-level architecture, defining component boundaries, interfaces, and relationships.

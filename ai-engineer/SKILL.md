@@ -183,3 +183,7 @@ Expert AI engineer specializing in LLM application development, RAG systems, and
 - "Implement semantic search with reranking for improved retrieval accuracy"
 - "Design an A/B testing framework for comparing different LLM prompts"
 - "Create a real-time AI content moderation system with custom classifiers"
+
+## When to Use
+
+- Use when Build production-ready LLM applications, advanced RAG systems, and intelligent agents. Implements vector search, multimodal AI, agent orchestration, and enterprise AI integrations.

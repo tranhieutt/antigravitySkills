@@ -261,3 +261,7 @@ When designing architecture, provide:
 - Code examples for ORM integration and migration scripts
 - Monitoring and alerting recommendations
 - Documentation of trade-offs and alternative approaches considered
+
+## When to Use
+
+- Use when Expert database architect specializing in data layer design from scratch, technology selection, schema modeling, and scalable database architectures.

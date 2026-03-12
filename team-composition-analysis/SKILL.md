@@ -409,3 +409,7 @@ To plan team composition:
 8. **Allocate equity** - Fair allocation that preserves pool
 
 For detailed compensation benchmarks and hiring plan templates, see `references/` and `examples/`.
+
+## When to Use
+
+- Use when This skill should be used when the user asks to \\\"plan team structure", "determine hiring needs", "design org chart", "calculate compensation", "plan equity allocation", or requests...

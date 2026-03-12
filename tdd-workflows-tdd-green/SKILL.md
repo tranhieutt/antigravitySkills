@@ -74,3 +74,7 @@ app.post('/api/users',
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
+
+## When to Use
+
+- Use when Implement the minimal code needed to make failing tests pass in the TDD green phase.

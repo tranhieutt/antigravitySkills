@@ -40,3 +40,7 @@ Templates and patterns for creating legally sound employment documentation inclu
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed templates and checklists.
+
+## When to Use
+
+- Use when Create employment contracts, offer letters, and HR policy documents following legal best practices. Use when drafting employment agreements, creating HR policies, or standardizing employment docume...

@@ -216,3 +216,7 @@ const allergies = exists('data/allergies.json') ? readFile('data/allergies.json'
 - 增量读取：仅读取指定时间范围的数据文件
 - 数据缓存：避免重复读取同一文件
 - 延迟计算：按需生成图表数据
+
+## When to Use
+
+- Use when AI驱动的综合健康分析系统，整合多维度健康数据、识别异常模式、预测健康风险、提供个性化建议。支持智能问答和AI健康报告生成。

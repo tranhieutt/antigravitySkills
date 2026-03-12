@@ -653,3 +653,7 @@ Work through patterns in order. For each pattern, ask "Does this apply?"
 **Suggested filename:** `epic-breakdown-advisor.md`
 **Suggested placement:** `/skills/interactive/`
 **Dependencies:** Uses `user-story-splitting.md`, `user-story.md`, `epic-hypothesis.md`
+
+## When to Use
+
+- Use when Break down epics into user stories using Richard Lawrence's Humanizing Work methodology—a flowchart-driven approach that applies 9 splitting patterns sequentially.

@@ -116,3 +116,7 @@ Co-Authored-By: (the agent model's name and attribution byline)
 |---------|-------------|
 | `pnpm cli sync` | Sync data |
 ```
+
+## When to Use
+
+- Use when This skill should be used when the user asks to "create AGENTS.md", "update AGENTS.md", "maintain agent docs", "set up CLAUDE.md", or needs to keep agent instructions concise. Enforces research-backed best practices for minimal, high-signal agent documentation.

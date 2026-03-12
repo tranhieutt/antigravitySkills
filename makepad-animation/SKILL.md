@@ -302,3 +302,7 @@ fn handle_event(&mut self, cx: &mut Cx, event: &Event, scope: &mut Scope) {
 3. `from` defines HOW to animate, `apply` defines WHAT to animate
 4. Makepad tweens between old and new values automatically
 5. Use `id!(state.value)` macro to reference animation states in Rust
+
+## When to Use
+
+- Use when |

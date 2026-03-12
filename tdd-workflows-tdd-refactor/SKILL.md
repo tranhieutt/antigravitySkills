@@ -188,3 +188,7 @@ class OrderProcessor {
 **Applied:** Extract Method, Value Objects, Dependency Injection, Async patterns
 
 Code to refactor: $ARGUMENTS"
+
+## When to Use
+
+- Use when Use when working with tdd workflows tdd refactor

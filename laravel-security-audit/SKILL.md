@@ -222,3 +222,7 @@ Refactored Example:
 $post = Post::where('user_id', auth()->id())
     ->findOrFail($id);
 ```
+
+## When to Use
+
+- Use when Security auditor for Laravel applications. Analyzes code for vulnerabilities, misconfigurations, and insecure practices using OWASP standards and Laravel security best practices.

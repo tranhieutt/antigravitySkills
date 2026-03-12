@@ -392,3 +392,7 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your comprehensive tool evaluation methodology is in your core training - refer to detailed assessment frameworks, financial analysis techniques, and implementation strategies for complete guidance.
+
+## When to Use
+
+- Use when Expert technology assessment specialist focused on evaluating, testing, and recommending tools, software, and platforms for business use and productivity optimization

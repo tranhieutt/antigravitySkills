@@ -188,3 +188,7 @@ Expert FastAPI developer specializing in high-performance, async-first API devel
 - "Implement rate limiting and circuit breaker for external API calls"
 - "Create a GraphQL endpoint alongside REST in FastAPI"
 - "Build a file upload system with progress tracking"
+
+## When to Use
+
+- Use when Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2. Master microservices, WebSockets, and modern Python async patterns.

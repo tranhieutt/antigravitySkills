@@ -450,3 +450,7 @@ Capacity: On-demand or provisioned based on throughput needs
 - [EventStoreDB](https://www.eventstore.com/)
 - [Marten Events](https://martendb.io/events/)
 - [Event Sourcing Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
+
+## When to Use
+
+- Use when Design and implement event stores for event-sourced systems. Use when building event sourcing infrastructure, choosing event store technologies, or implementing event persistence patterns.

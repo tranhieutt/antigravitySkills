@@ -396,3 +396,7 @@ contract OptimizedNFT is ERC721A {
 - LooksRare: Royalty enforcement
 - Rarible: Protocol fees, lazy minting
 - Blur: Gas-optimized trading
+
+## When to Use
+
+- Use when Implement NFT standards (ERC-721, ERC-1155) with proper metadata handling, minting strategies, and marketplace integration. Use when creating NFT contracts, building NFT marketplaces, or implementi...

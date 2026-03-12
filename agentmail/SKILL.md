@@ -245,3 +245,7 @@ type AttachmentMeta = { id: string; filename: string; contentType: string; size:
 type KarmaBalance = { balance: number; events: KarmaEvent[] };
 type KarmaEvent = { id: string; type: string; amount: number; timestamp: number; metadata?: Record<string, unknown> };
 ```
+
+## When to Use
+
+- Use when Email infrastructure for AI agents. Create accounts, send/receive emails, manage webhooks, and check karma balance via the AgentMail API.

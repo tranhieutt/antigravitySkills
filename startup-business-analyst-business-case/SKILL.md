@@ -490,3 +490,7 @@ What materials do you have?
 - Update quarterly or for funding rounds
 - Customize sections based on audience
 - Keep executive summary to 2 pages max
+
+## When to Use
+
+- Use when Generate comprehensive investor-ready business case document with

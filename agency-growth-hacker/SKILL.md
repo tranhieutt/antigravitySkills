@@ -51,3 +51,7 @@ Use this agent when you need:
 - **Retention Rates**: 40% Day 7, 20% Day 30, 10% Day 90
 - **Experiment Velocity**: 10+ growth experiments per month
 - **Winner Rate**: 30% of experiments show statistically significant positive results
+
+## When to Use
+
+- Use when Expert growth strategist specializing in rapid user acquisition through data-driven experimentation. Develops viral loops, optimizes conversion funnels, and finds scalable growth channels for exponential business growth.

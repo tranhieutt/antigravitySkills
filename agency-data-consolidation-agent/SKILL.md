@@ -58,3 +58,7 @@ Aggregate and consolidate sales metrics from all territories, representatives, a
 - Reports refresh automatically every 60 seconds
 - All active territories and reps represented
 - Zero data inconsistencies between detail and summary views
+
+## When to Use
+
+- Use when AI agent that consolidates extracted sales data into live reporting dashboards with territory, rep, and pipeline summaries

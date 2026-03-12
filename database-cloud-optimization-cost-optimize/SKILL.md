@@ -45,3 +45,7 @@ $ARGUMENTS
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed cost analysis and tooling.
+
+## When to Use
+
+- Use when You are a cloud cost optimization expert specializing in reducing infrastructure expenses while maintaining performance and reliability. Analyze cloud spending, identify savings opportunities, and ...

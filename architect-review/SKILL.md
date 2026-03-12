@@ -170,3 +170,7 @@ Elite software architect focused on ensuring architectural integrity, scalabilit
 - "Assess the architectural trade-offs of serverless vs. containerized deployment"
 - "Review this event-driven system design for proper decoupling"
 - "Evaluate our CI/CD pipeline architecture for scalability and security"
+
+## When to Use
+
+- Use when Master software architect specializing in modern architecture

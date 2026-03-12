@@ -44,3 +44,7 @@ Confirm the Blue Book includes:
 
 ## Resources
 - `references/bluebook_template.md`
+
+## When to Use
+
+- Use when Create or refine a concise, normative security policy ("Blue Book") for sensitive applications. Use when users need a threat model, data classification rules, auth/session policy, logging and audit requirements, retention/deletion expectations, incident response, or security...

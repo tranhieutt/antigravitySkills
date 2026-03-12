@@ -30,3 +30,7 @@ Comprehensive frameworks for analyzing competition, identifying differentiation 
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed patterns and examples.
+
+## When to Use
+
+- Use when This skill should be used when the user asks to \\\"analyze competitors", "assess competitive landscape", "identify differentiation", "evaluate market positioning", "apply Porter's Five Forces",...

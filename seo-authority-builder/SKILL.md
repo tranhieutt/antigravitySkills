@@ -139,3 +139,7 @@ Priority Actions:
 - Google Knowledge Panel optimization
 
 Focus on demonstrable expertise and clear trust signals. Suggest concrete improvements for authority building.
+
+## When to Use
+
+- Use when Analyzes content for E-E-A-T signals and suggests improvements to

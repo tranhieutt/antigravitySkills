@@ -447,3 +447,7 @@ If you chose Elysia, replace `honoServer` with `elysiaServer` and update the imp
 ```bash
 npm run dev
 ```
+
+## When to Use
+
+- Use when Skill for creating AI agent projects using the VoltAgent framework. Guide for CLI setup and manual bootstrapping.

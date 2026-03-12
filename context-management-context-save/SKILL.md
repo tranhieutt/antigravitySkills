@@ -178,3 +178,7 @@ def compress_context(context, compression_level='standard'):
 - Enhanced cross-domain knowledge transfer
 - Real-time collaborative context editing
 - Predictive context recommendation systems
+
+## When to Use
+
+- Use when Use when working with context management context save

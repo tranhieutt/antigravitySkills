@@ -76,3 +76,7 @@ export class ServerlessApiPattern extends Construct {
 
 **Problem:** Circular dependency between stacks
 **Solution:** Extract shared resources into a dedicated base stack and pass references via constructor props.
+
+## When to Use
+
+- Use when Common AWS CDK patterns and constructs for building cloud infrastructure with TypeScript, Python, or Java. Use when designing reusable CDK stacks and L3 constructs.

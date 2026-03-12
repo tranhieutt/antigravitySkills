@@ -320,3 +320,7 @@ def generate_mock_objects(self, dependencies: List[str]) -> str:
 5. **CI Integration**: Commands to run tests in pipeline
 
 Focus on generating maintainable, comprehensive tests that catch bugs early and provide confidence in code changes.
+
+## When to Use
+
+- Use when Generate comprehensive, maintainable unit tests across languages with strong coverage and edge case focus.

@@ -85,3 +85,7 @@ const app = new VoltAgent({
 
 await app.startServer();
 ```
+
+## When to Use
+
+- Use when Reference for the VoltAgent class: constructor options, lifecycle methods, and runtime behavior.

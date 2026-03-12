@@ -441,3 +441,7 @@ for alert in alerts:
 - [Stephen Few's Dashboard Design](https://www.perceptualedge.com/articles/visual_business_intelligence/rules_for_using_color.pdf)
 - [Edward Tufte's Principles](https://www.edwardtufte.com/tufte/)
 - [Google Data Studio Gallery](https://datastudio.google.com/gallery)
+
+## When to Use
+
+- Use when Design effective KPI dashboards with metrics selection, visualization best practices, and real-time monitoring patterns. Use when building business dashboards, selecting metrics, or designing data ...

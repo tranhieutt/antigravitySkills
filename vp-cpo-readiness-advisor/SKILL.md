@@ -405,3 +405,7 @@ See `examples/conversation-flow.md` for a full interaction covering the evaluati
 - Marty Cagan, *Empowered* — Organizational dynamics and product leadership at scale
 - Patrick Lencioni, *Five Dysfunctions of a Team* — Diagnostic for executive team dysfunction
 - Michael Watkins, *The First 90 Days* — Structured approach to senior leadership transitions
+
+## When to Use
+
+- Use when Coaches Directors and executives through the transition to VP or CPO across four situations: preparing, interviewing, newly landed, or recalibrating at executive level.

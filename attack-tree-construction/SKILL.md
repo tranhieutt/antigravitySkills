@@ -39,3 +39,7 @@ Systematic attack path visualization and analysis.
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed patterns, templates, and examples.
+
+## When to Use
+
+- Use when Build comprehensive attack trees to visualize threat paths. Use when mapping attack scenarios, identifying defense gaps, or communicating security risks to stakeholders.

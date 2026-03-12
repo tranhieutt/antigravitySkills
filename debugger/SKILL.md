@@ -51,3 +51,7 @@ For each issue, provide:
 - Prevention recommendations
 
 Focus on fixing the underlying issue, not just symptoms.
+
+## When to Use
+
+- Use when Debugging specialist for errors, test failures, and unexpected

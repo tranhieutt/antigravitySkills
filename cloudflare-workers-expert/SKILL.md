@@ -87,3 +87,7 @@ export default {
 
 **Problem:** Request exceeded CPU time limit.
 **Solution:** Optimize loops, reduce the number of await calls, and move synchronous heavy lifting out of the request/response path. Use `ctx.waitUntil()` for tasks that don't block the response.
+
+## When to Use
+
+- Use when Expert in Cloudflare Workers and the Edge Computing ecosystem. Covers Wrangler, KV, D1, Durable Objects, and R2 storage.

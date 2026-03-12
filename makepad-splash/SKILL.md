@@ -211,3 +211,7 @@ create_form([
 3. Splash syntax is similar to JavaScript/Rust hybrid
 4. Scripts run in a sandboxed environment
 5. HTTP and timer APIs enable async operations
+
+## When to Use
+
+- Use when |

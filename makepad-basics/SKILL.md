@@ -150,3 +150,7 @@ let text = input.text();
 2. Makepad is GPU-first - all rendering is shader-based
 3. Cross-platform: same code runs on Android, iOS, Linux, macOS, Windows, Web
 4. Recommend UI Zoo example for widget exploration
+
+## When to Use
+
+- Use when |

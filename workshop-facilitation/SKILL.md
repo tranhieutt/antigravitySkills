@@ -83,3 +83,7 @@ Provide the canonical facilitation pattern for interactive skills: one step at a
 ## References
 - Use as the source of truth for interactive facilitation behavior.
 - Apply alongside workshop skills in `skills/*-workshop/SKILL.md` and advisor-style interactive skills.
+
+## When to Use
+
+- Use when Facilitate workshop sessions in a multi-turn, one-step flow with numbered recommendations at decision points and quick-select options for regular questions.

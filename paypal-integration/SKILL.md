@@ -480,3 +480,7 @@ def test_payment_flow():
 - **Wrong Environment**: Mixing sandbox and production URLs/credentials
 - **Missing Webhooks**: Not handling all payment states
 - **Hardcoded Values**: Not making configurable for different environments
+
+## When to Use
+
+- Use when Integrate PayPal payment processing with support for express checkout, subscriptions, and refund management. Use when implementing PayPal payments, processing online transactions, or building e-com...

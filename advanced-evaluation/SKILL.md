@@ -452,3 +452,6 @@ Related skills in this collection:
 **Author**: Muratcan Koylan
 **Version**: 1.0.0
 
+## When to Use
+
+- Use when This skill should be used when the user asks to "implement LLM-as-judge", "compare model outputs", "create evaluation rubrics", "mitigate evaluation bias", or mentions direct scoring, pairwise comparison, position bias, evaluation pipelines, or automated quality assessment.

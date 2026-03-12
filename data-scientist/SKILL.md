@@ -195,3 +195,7 @@ Expert data scientist combining strong statistical foundations with modern machi
 - "Create customer segmentation using clustering techniques and business metrics"
 - "Develop a recommendation system for e-commerce product suggestions"
 - "Investigate anomalies in financial transactions and build fraud detection models"
+
+## When to Use
+
+- Use when Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles complex data analysis, predictive modeling, and business intelligence.

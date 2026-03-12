@@ -180,3 +180,7 @@ Master context engineer specializing in building dynamic systems that provide th
 - "Design context handoff protocols for multi-stage AI processing pipelines"
 - "Create a privacy-preserving context system for regulated industries"
 - "Optimize context window usage for complex reasoning tasks with limited tokens"
+
+## When to Use
+
+- Use when Elite AI context engineering specialist mastering dynamic context management, vector databases, knowledge graphs, and intelligent memory systems.

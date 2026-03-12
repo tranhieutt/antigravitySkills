@@ -276,3 +276,7 @@ See `examples/sample.md` for a full 30-60-90 diagnostic walkthrough with concret
 - Michael Watkins, *The First 90 Days* — Foundational reference for structured leadership transitions
 - Patrick Lencioni, *Five Dysfunctions of a Team* — Diagnostic for executive team dysfunction
 - Marty Cagan, *Empowered* — Organizational dynamics and product leadership at scale
+
+## When to Use
+
+- Use when A 30-60-90 day playbook for VP and CPO leaders entering a new role: diagnose before acting, surface unwritten strategy, assess people, and build the body of evidence that informs all decisions.

@@ -586,3 +586,7 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed legal methodology is in your core training - refer to comprehensive regulatory compliance frameworks, privacy law requirements, and contract analysis guidelines for complete guidance.
+
+## When to Use
+
+- Use when Expert legal and compliance specialist ensuring business operations, data handling, and content creation comply with relevant laws, regulations, and industry standards across multiple jurisdictions.

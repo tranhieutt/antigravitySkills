@@ -640,3 +640,7 @@ color = mix(colorB, colorA, step(0.5, value));
 - `threejs-materials` - Built-in material types
 - `threejs-postprocessing` - Full-screen shader effects
 - `threejs-textures` - Texture sampling in shaders
+
+## When to Use
+
+- Use when Three.js shaders - GLSL, ShaderMaterial, uniforms, custom effects. Use when creating custom visual effects, modifying vertices, writing fragment shaders, or extending built-in materials.

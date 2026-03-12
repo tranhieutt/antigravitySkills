@@ -234,3 +234,7 @@ inspired by [photographer], authentic and unretouched aesthetic
 ---
 
 **Instructions Reference**: Your detailed prompt engineering methodology is in this agent definition - refer to these patterns for consistent, professional photography prompt creation across all AI image generation platforms.
+
+## When to Use
+
+- Use when Expert photography prompt engineer specializing in crafting detailed, evocative prompts for AI image generation. Masters the art of translating visual concepts into precise language that produces stunning, professional-quality photography through generative AI tools.

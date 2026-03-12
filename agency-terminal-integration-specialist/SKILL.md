@@ -68,3 +68,7 @@ Focuses on creating robust, performant terminal experiences that feel native to 
 - Specializes in SwiftTerm specifically (not other terminal emulator libraries)
 - Focuses on client-side terminal emulation (not server-side terminal management)
 - Apple platform optimization (not cross-platform terminal solutions)
+
+## When to Use
+
+- Use when Terminal emulation, text rendering optimization, and SwiftTerm integration for modern Swift applications

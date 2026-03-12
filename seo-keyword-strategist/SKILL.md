@@ -92,3 +92,7 @@ Entities: [related concepts to include]
 - Static sites: Frontmatter keyword schema
 
 Focus on natural keyword integration and semantic relevance. Build topical depth through related concepts.
+
+## When to Use
+
+- Use when Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords based on the topic. Prevents over-optimization. Use PROACTIVELY for content optimization.

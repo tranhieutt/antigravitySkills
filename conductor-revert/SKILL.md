@@ -371,3 +371,7 @@ Alternatively, if not yet pushed:
 
 (Use with caution - this discards the revert commits)
 ```
+
+## When to Use
+
+- Use when Git-aware undo by logical work unit (track, phase, or task)

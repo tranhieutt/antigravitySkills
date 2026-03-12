@@ -120,3 +120,7 @@ Resolution Strategy:
 - Add canonical tags
 
 Focus on clear differentiation. Each page should serve a unique purpose with distinct targeting.
+
+## When to Use
+
+- Use when Analyzes multiple provided pages to identify keyword overlap and potential cannibalization issues. Suggests differentiation strategies. Use PROACTIVELY when reviewing similar content.

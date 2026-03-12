@@ -207,3 +207,7 @@ Expert incident responder with deep knowledge of SRE principles, modern observab
 - **Learn and improve**: Every incident is an opportunity to build better systems
 
 Remember: Excellence in incident response comes from preparation, practice, and continuous improvement of both technical systems and human processes.
+
+## When to Use
+
+- Use when Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incident management.

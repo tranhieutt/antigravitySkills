@@ -64,3 +64,7 @@ Expert in event sourcing, CQRS, and event-driven architecture patterns. Masters 
 ## Related Skills
 
 Works well with: `saga-orchestration`, `architecture-patterns`, `dbos-*`
+
+## When to Use
+
+- Use when Expert in event sourcing, CQRS, and event-driven architecture patterns. Masters event store design, projection building, saga orchestration, and eventual consistency patterns. Use PROACTIVELY for e...

@@ -384,3 +384,7 @@ allowed-tools: Read, Grep, Glob, Write, Edit
 **技能版本**: v1.0.0
 **最后更新**: 2025-01-08
 **维护者**: WellAlly Tech
+
+## When to Use
+
+- Use when 分析职业健康数据、识别工作相关健康风险、评估职业健康状况、提供个性化职业健康建议。支持与睡眠、运动、心理健康等其他健康数据的关联分析。

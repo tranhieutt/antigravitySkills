@@ -81,3 +81,7 @@ pipe(
 ```
 
 Use Either when **error type matters** and you want to chain operations.
+
+## When to Use
+
+- Use when Quick reference for Either type. Use when user needs error handling, validation, or operations that can fail with typed errors.

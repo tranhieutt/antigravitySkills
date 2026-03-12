@@ -33,3 +33,7 @@ Launch the RSVP speed reader to display text one word at a time with Spritz-styl
 
 ## Arguments
 $ARGUMENTS
+
+## When to Use
+
+- Use when Launch RSVP speed reader for text

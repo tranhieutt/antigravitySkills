@@ -134,3 +134,7 @@ Tokens stored securely using the system keyring:
 Service name: `google-drive-skill-oauth`
 
 Automatically refreshes expired tokens using Google's cloud function.
+
+## When to Use
+
+- Use when |

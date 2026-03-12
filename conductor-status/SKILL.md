@@ -337,3 +337,7 @@ If invoked with `--json`:
   "blockers": []
 }
 ```
+
+## When to Use
+
+- Use when Display project status, active tracks, and next actions

@@ -287,3 +287,7 @@ resource "aws_cloudwatch_metric_alarm" "cpu_high" {
 
 - `terraform-module-library` - For resource provisioning
 - `multi-cloud-architecture` - For cloud selection
+
+## When to Use
+
+- Use when Optimize cloud costs through resource rightsizing, tagging strategies, reserved instances, and spending analysis. Use when reducing cloud expenses, analyzing infrastructure costs, or implementing c...

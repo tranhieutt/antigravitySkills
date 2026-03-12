@@ -463,3 +463,7 @@ To create a startup financial model:
 9. **Integrate fundraising** - Model funding rounds and milestones
 
 For complete templates and formulas, reference the `references/` and `examples/` files.
+
+## When to Use
+
+- Use when This skill should be used when the user asks to \\\"create financial projections", "build a financial model", "forecast revenue", "calculate burn rate", "estimate runway", "model cash flow", or...

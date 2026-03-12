@@ -437,3 +437,7 @@ module.exports = {
 - Not considering index performance
 - Ignoring foreign key constraints
 - Migrating too much data at once
+
+## When to Use
+
+- Use when Execute database migrations across ORMs and platforms with zero-downtime strategies, data transformation, and rollback procedures. Use when migrating databases, changing schemas, performing data tr...

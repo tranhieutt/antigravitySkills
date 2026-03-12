@@ -773,3 +773,7 @@ def calculate_healthy_eating_index(daily_data):
 **技能版本**: v1.0
 **创建日期**: 2026-01-06
 **维护者**: WellAlly Tech
+
+## When to Use
+
+- Use when 分析营养数据、识别营养模式、评估营养状况，并提供个性化营养建议。支持与运动、睡眠、慢性病数据的关联分析。

@@ -47,3 +47,7 @@ $ARGUMENTS
 ## Resources
 
 - `resources/implementation-playbook.md` for code samples, checklists, and templates.
+
+## When to Use
+
+- Use when You are an API mocking expert specializing in realistic mock services for development, testing, and demos. Design mocks that simulate real API behavior and enable parallel development.

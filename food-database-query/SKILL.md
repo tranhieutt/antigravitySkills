@@ -783,3 +783,7 @@ RDA_FEMALE = {
 **技能版本**: v1.0
 **最后更新**: 2026-01-06
 **维护者**: WellAlly Tech
+
+## When to Use
+
+- Use when Food Database Query

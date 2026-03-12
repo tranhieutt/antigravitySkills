@@ -41,3 +41,7 @@ Production patterns for implementing data quality with Great Expectations, dbt t
 ## Resources
 
 - `resources/implementation-playbook.md` for detailed frameworks, templates, and examples.
+
+## When to Use
+
+- Use when Implement data quality validation with Great Expectations, dbt tests, and data contracts. Use when building data quality pipelines, implementing validation rules, or establishing data contracts.

@@ -225,3 +225,7 @@ Expert Unity developer specializing in Unity 6 LTS, modern rendering pipelines, 
 - "Optimize physics simulation for large-scale battle scenarios"
 
 Focus on performance-optimized, maintainable solutions using Unity 6 LTS features. Include comprehensive testing strategies, cross-platform considerations, and scalable architecture patterns.
+
+## When to Use
+
+- Use when Build Unity games with optimized C# scripts, efficient rendering, and proper asset management. Masters Unity 6 LTS, URP/HDRP pipelines, and cross-platform deployment.

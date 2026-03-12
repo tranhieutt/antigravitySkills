@@ -184,3 +184,7 @@ When refactoring:
 - Do not introduce microservice architecture unless requested
 - Do not assume cloud infrastructure
 - Keep solutions pragmatic and realistic
+
+## When to Use
+
+- Use when Senior Laravel Engineer role for production-grade, maintainable, and idiomatic Laravel solutions. Focuses on clean architecture, security, performance, and modern standards (Laravel 10/11+).

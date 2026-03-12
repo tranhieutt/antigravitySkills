@@ -451,3 +451,7 @@ def process_request():
 - `prometheus-configuration` - For metrics
 - `grafana-dashboards` - For visualization
 - `slo-implementation` - For latency SLOs
+
+## When to Use
+
+- Use when Implement distributed tracing with Jaeger and Tempo to track requests across microservices and identify performance bottlenecks. Use when debugging microservices, analyzing request flows, or implem...

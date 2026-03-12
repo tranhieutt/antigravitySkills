@@ -505,3 +505,7 @@ Works well with: `event-sourcing-architect`, `workflow-automation`, `dbos-*`
 
 - [Saga Pattern](https://microservices.io/patterns/data/saga.html)
 - [Designing Data-Intensive Applications](https://dataintensive.net/)
+
+## When to Use
+
+- Use when Implement saga patterns for distributed transactions and cross-aggregate workflows. Use when coordinating multi-step business processes, handling compensating transactions, or managing long-running...

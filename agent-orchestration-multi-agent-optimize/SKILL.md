@@ -240,3 +240,7 @@ class CostOptimizer:
 - Implement gradual, reversible changes
 
 Target Optimization: $ARGUMENTS
+
+## When to Use
+
+- Use when Optimize multi-agent systems with coordinated profiling, workload distribution, and cost-aware orchestration. Use when improving agent performance, throughput, or reliability.

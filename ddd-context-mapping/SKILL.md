@@ -50,3 +50,7 @@ Inventory, and Fraud contexts, including ACL and contract ownership.
 - This skill does not replace API-level schema design.
 - It does not guarantee organizational alignment by itself.
 - It should be revisited when team ownership changes.
+
+## When to Use
+
+- Use when Map relationships between bounded contexts and define integration contracts using DDD context mapping patterns.
