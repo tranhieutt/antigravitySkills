@@ -2,9 +2,9 @@
 
 Đây là kho lưu trữ kỹ năng (skills) chính thức được cài đặt cho hệ thống Antigravity/Gemini trên máy tính này.
 
-- **Tổng số thư mục kỹ năng**: 1,378 (Đã cập nhật bộ Anthropic, Sec, Game Dev & The Agency)
-- **Phiên bản hệ thống**: 7.0.1 (Base) + Custom Recovery + Update 2026-03-10
-- **Ngày cập nhật cuối**: 2026-03-10
+- **Tổng số thư mục kỹ năng**: 1,398 (Đã cập nhật bộ Anthropic, Sec, Game Dev & The Agency)
+- **Phiên bản hệ thống**: 7.0.1 (Base) + Custom Recovery + Update 2026-03-12
+- **Ngày cập nhật cuối**: 2026-03-12
 - **Nguồn gốc**:
   - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
   - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) (Thêm vào 2026-03-10)
@@ -171,6 +171,7 @@ Found a skill that needs improvement? Want to add a new skill?
 
 ## 📜 Lịch sử cập nhật (History)
 
+- **[2026-03-12] Cập nhật kỹ năng mới**: Đồng bộ hóa và cập nhật thêm 16 kỹ năng mới từ repository `sickn33/antigravity-awesome-skills`. Tổng cộng 1,398 thư mục kỹ năng hiện tại trải dài trên nhiều lĩnh vực.
 - **[2026-03-10] Cập nhật "The Agency"**: Trích xuất và cài đặt thành công 68 agents (bao gồm Design, Engineering, Marketing, v.v...) từ nguồn `msitarzewski/agency-agents` dưới dạng skill, cho phép hệ thống vận hành theo mô hình Multi-Agent khép kín.
 - **[2026-03-10] Cập nhật Core Awesome Skills**: Download và nâng cấp kho skill diện rộng với danh sách hơn 1,200+ kỹ năng từ [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills). Đợt này bổ sung các nhóm skill đặc biệt: *AI Thinkers*, *Tech Icons*, *Advanced Development*, *Security 007*, và *Game Dev*.
 
