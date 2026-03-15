@@ -6,6 +6,7 @@
 - **Phiên bản hệ thống**: 7.0.1 (Base) + Custom Recovery + Update 2026-03-15
 - **Ngày cập nhật cuối**: 2026-03-15
 - **Nguồn gốc**:
+  - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) (Thêm vào 2026-03-15)
   - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
   - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) (Thêm vào 2026-03-10)
 
