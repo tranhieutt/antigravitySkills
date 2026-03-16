@@ -514,3 +514,7 @@ Just say any of these in a new conversation:
 - “Update project health state”
 
 The agent will automatically discover and use the skill.
+
+## When to Use
+
+- Use when Forensic root cause analyzer for Antigravity sessions. Classifies scope deltas, rework patterns, root causes, hotspots, and auto-improves prompts/health.

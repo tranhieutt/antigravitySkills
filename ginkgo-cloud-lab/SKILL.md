@@ -54,3 +54,7 @@ Access Ginkgo Cloud Lab at https://cloud.ginkgo.bio. Account creation or institu
 - **Catalyst Software:** Protocol orchestration, scheduling, parameterization, and real-time monitoring
 - **70+ integrated instruments:** Sample prep, liquid handling, analytical readouts, storage, incubation
 - **Nebula:** Ginkgo's autonomous lab facility in Boston, MA
+
+## When to Use
+
+- Use when Submit and manage protocols on Ginkgo Bioworks Cloud Lab (cloud.ginkgo.bio), a web-based interface for autonomous lab execution on Reconfigurable Automation Carts (RACs). Use when the user wants to run cell-free protein expression (validation or optimization), generate fluorescent pixel art, or interact with Ginkgo Cloud Lab services. Covers protocol selection, input preparation, pricing, and ordering workflows.

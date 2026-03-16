@@ -484,3 +484,6 @@ print(result.text_content)
 - **MCP Server**: markitdown-mcp (for Claude Desktop integration)
 - **Plugin Development**: See `packages/markitdown-sample-plugin`
 
+## When to Use
+
+- Use when Convert files and office documents to Markdown. Supports PDF, DOCX, PPTX, XLSX, images (with OCR), audio (with transcription), HTML, CSV, JSON, XML, ZIP, YouTube URLs, EPubs and more.

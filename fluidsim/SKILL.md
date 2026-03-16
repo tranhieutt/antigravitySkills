@@ -345,3 +345,6 @@ df = sim.output.spatial_means.load()
 - `references/output_analysis.md`: Output types and analysis methods
 - `references/advanced_features.md`: Forcing, MPI, parametric studies, custom solvers
 
+## When to Use
+
+- Use when Framework for computational fluid dynamics simulations using Python. Use when running fluid dynamics simulations including Navier-Stokes equations (2D/3D), shallow water equations, stratified flows, or when analyzing turbulence, vortex dynamics, or geophysical flows. Provides pseudospectral methods with FFT, HPC support, and comprehensive output analysis.

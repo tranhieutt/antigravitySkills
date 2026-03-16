@@ -459,3 +459,6 @@ For detailed workflows and API patterns, refer to:
 
 Official documentation: https://cobrapy.readthedocs.io/en/latest/
 
+## When to Use
+
+- Use when Constraint-based metabolic modeling (COBRA). FBA, FVA, gene knockouts, flux sampling, SBML models, for systems biology and metabolic engineering analysis.

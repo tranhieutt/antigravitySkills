@@ -166,3 +166,7 @@ Full platform: [themindbook.app](https://themindbook.app)
 Research: [The What-If Statement (DOI: 10.5281/zenodo.18736841)](https://doi.org/10.5281/zenodo.18736841)
 
 _"The future is not empty. It contains completed states that exert pull on the present."_
+
+## When to Use
+
+- Use when Run structured What-If scenario analysis with multi-branch possibility exploration. Use this skill when the user asks speculative questions like "what if...", "what would happen if...", "what are the possibilities", "explore scenarios", "scenario analysis", "possibility space", "what could go wrong", "best case / worst case", "risk analysis", "contingency planning", "strategic options", or any question about uncertain futures. Also trigger when the user faces a fork-in-the-road decision, wants to stress-test an idea, or needs to think through consequences before committing.

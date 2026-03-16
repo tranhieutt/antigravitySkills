@@ -867,3 +867,6 @@ For additional help:
 - GitHub issues: https://github.com/pachterlab/gget/issues
 - Citation: Luebbert, L. & Pachter, L. (2023). Efficient querying of genomic reference databases with gget. Bioinformatics. https://doi.org/10.1093/bioinformatics/btac836
 
+## When to Use
+
+- Use when Fast CLI/Python queries to 20+ bioinformatics databases. Use for quick lookups: gene info, BLAST searches, AlphaFold structures, enrichment analysis. Best for interactive exploration, simple queries. For batch processing or advanced BLAST use biopython; for multi-database Python workflows use bioservices.

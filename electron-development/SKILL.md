@@ -854,3 +854,7 @@ app.on('web-contents-created', (_event, contents) => {
 - `typescript-pro` — When setting up advanced TypeScript configurations for multi-target builds
 - `nodejs-backend-patterns` — When the main process needs complex backend logic
 - `github-actions-templates` — When setting up CI/CD for cross-platform Electron builds
+
+## When to Use
+
+- Use when Master Electron desktop app development with secure IPC, contextIsolation, preload scripts, multi-process architecture, electron-builder packaging, code signing, and auto-update.

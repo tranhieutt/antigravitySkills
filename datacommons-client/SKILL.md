@@ -251,3 +251,6 @@ Comprehensive documentation for each endpoint is available in the `references/` 
 6. **Filter by facet for consistency**: Use `filter_facet_domains` to ensure data from the same source
 7. **Read reference docs**: Each endpoint has extensive documentation in the `references/` directory
 
+## When to Use
+
+- Use when Work with Data Commons, a platform providing programmatic access to public statistical data from global sources. Use this skill when working with demographic data, economic indicators, health statistics, environmental data, or any public datasets available through Data Commons. Applicable for querying population statistics, GDP figures, unemployment rates, disease prevalence, geographic entity resolution, and exploring relationships between statistical entities.

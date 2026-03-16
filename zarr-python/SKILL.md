@@ -775,3 +775,6 @@ For detailed API documentation, advanced usage, and the latest updates:
 - **Dask**: https://docs.dask.org/ (parallel computing)
 - **NumCodecs**: https://numcodecs.readthedocs.io/ (compression codecs)
 
+## When to Use
+
+- Use when Chunked N-D arrays for cloud storage. Compressed arrays, parallel I/O, S3/GCS integration, NumPy/Dask/Xarray compatible, for large-scale scientific computing pipelines.

@@ -619,3 +619,6 @@ tree.write(outfile="tree.nhx", features=["habitat", "temperature", "depth"])
 9. **Copy method selection**: "newick" for speed, "cpickle" for full fidelity, "deepcopy" for complex objects
 10. **NCBI query caching**: Store NCBI taxonomy query results to avoid repeated database access
 
+## When to Use
+
+- Use when Phylogenetic tree toolkit (ETE). Tree manipulation (Newick/NHX), evolutionary event detection, orthology/paralogy, NCBI taxonomy, visualization (PDF/SVG), for phylogenomics.

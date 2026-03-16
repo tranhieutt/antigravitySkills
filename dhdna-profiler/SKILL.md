@@ -160,3 +160,7 @@ If the user asks to profile their own thinking (using the conversation history a
 [AHK Strategies](https://ahkstrategies.net) — AI Horizon Knowledge
 Full platform: [themindbook.app](https://themindbook.app)
 Research: [DHDNA Paper (DOI: 10.5281/zenodo.18736629)](https://doi.org/10.5281/zenodo.18736629)
+
+## When to Use
+
+- Use when Extract cognitive patterns and thinking fingerprints from any text. Use this skill when the user wants to analyze how someone thinks, understand cognitive style, profile writing or speech patterns, compare thinking styles between people, asks "what's my thinking style", "analyze how this person reasons", "cognitive profile", "thinking pattern", "DHDNA", "digital DNA", or wants to understand the mind behind any text. Also trigger when the user provides text and wants deeper insight into the author's reasoning patterns, decision-making style, or cognitive signature.
