@@ -1,10 +1,7 @@
 ---
 name: treatment-plans
-description: Generate concise (3-4 page), focused medical treatment plans in LaTeX/PDF format for all clinical specialties. Supports general medical treatment, rehabilitation therapy, mental health care, chronic disease management, perioperative care, and pain management. Includes SMART goal frameworks, evidence-based interventions with minimal text citations, regulatory compliance (HIPAA), and professional formatting. Prioritizes brevity and clinical actionability.
-allowed-tools: Read Write Edit Bash
-license: MIT license
-metadata:
-    skill-author: K-Dense Inc.
+description: "Generate concise (3-4 page), focused medical treatment plans in LaTeX/PDF format for all clinical specialties. Supports general medical treatment, rehabilitation therapy, mental health care, chronic disease management, perioperative care, and pain management. Includes SMART goal frameworks, evidence-based interventions with minimal text citations, regulatory compliance (HIPAA), and professional formatting. Prioritizes brevity and clinical actionability."
+allowed-tools: [Read, Write, Edit, Bash]
 ---
 
 # Treatment Plan Writing
@@ -915,6 +912,9 @@ Evidence-based treatment planning requires literature support:
 - **Citation Management** (`citation-management` skill): Reference clinical guidelines
 - **Literature Review** (`literature-review` skill): Understand treatment evidence base
 - **Research Lookup** (`research-lookup` skill): Find current best practices
+- **Venue Templates** (`venue-templates` skill): For publication-ready medical writing style
+
+**Medical Writing Style:** When preparing treatment-related content for publication (case reports, clinical guidelines), consult the venue-templates skill's `medical_journal_styles.md` for guidance on evidence-graded language, patient-centered terminology, and structured abstract formats used in NEJM, Lancet, JAMA, and BMJ.
 
 ### Research Integration
 
@@ -1576,5 +1576,4 @@ Balance medical recommendations with patient autonomy and values while promoting
 ## License
 
 Part of the Claude Scientific Writer project. See main LICENSE file.
-
 

@@ -1,10 +1,7 @@
 ---
 name: peer-review
-description: Structured manuscript/grant review with checklist-based evaluation. Use when writing formal peer reviews with specific criteria methodology assessment, statistical validity, reporting standards compliance (CONSORT/STROBE), and constructive feedback. Best for actual review writing, manuscript revision. For evaluating claims/evidence quality use scientific-critical-thinking; for quantitative scoring frameworks use scholar-evaluation.
-allowed-tools: Read Write Edit Bash
-license: MIT license
-metadata:
-    skill-author: K-Dense Inc.
+description: "Systematic peer review toolkit. Evaluate methodology, statistics, design, reproducibility, ethics, figure integrity, reporting standards, for manuscript and grant review across disciplines."
+allowed-tools: [Read, Write, Edit, Bash]
 ---
 
 # Scientific Critical Evaluation and Peer Review
@@ -23,6 +20,8 @@ This skill should be used when:
 - Evaluating reproducibility and data availability
 - Checking compliance with reporting guidelines (CONSORT, STROBE, PRISMA)
 - Providing constructive feedback on scientific writing
+
+**Related Resource:** The **venue-templates** skill provides `reviewer_expectations.md` with detailed guidance on what reviewers look for at different venues (Nature/Science, Cell Press, medical journals, ML conferences). Use this to calibrate your review standards to the target venue.
 
 ## Visual Enhancement with Scientific Schematics
 
@@ -566,4 +565,3 @@ Before finalizing the review, verify:
 - [ ] Tone is constructive and professional throughout
 - [ ] Review is thorough but proportionate to manuscript scope
 - [ ] Recommendation is consistent with identified issues
-
