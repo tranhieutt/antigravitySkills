@@ -7,6 +7,7 @@
 - **Ngày cập nhật cuối**: 2026-03-16
 - **Nguồn gốc**:
   - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) (Thêm vào 2026-03-15)
+  - [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) (Thêm vào 2026-03-16)
   - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
   - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) (Thêm vào 2026-03-10)
 
@@ -172,7 +173,7 @@ Found a skill that needs improvement? Want to add a new skill?
 
 ## 📜 Lịch sử cập nhật (History)
 
-- **[2026-03-16] Auto-update Skills (Antigravity Workflow)**: Đồng bộ repo Awesome Skills và repo Khoa học, tự động cài đặt các thư mục kỹ năng còn thiếu. Tổng số thư mục kỹ năng đạt 1,560.
+- **[2026-03-16] Auto-update Skills (Antigravity Workflow)**: Đồng bộ repo `antigravity-awesome-skills` và tích hợp nhóm thư mục kỹ năng báo cáo khoa học từ `K-Dense-AI/claude-scientific-writer`, tự động cài đặt các thư mục kỹ năng còn thiếu. Tổng số thư mục kỹ năng đạt 1,560.
 - **[2026-03-15] Cập nhật kỹ năng Khoa học**: Nạp thành công hơn 150+ kỹ năng từ repository `K-Dense-AI/claude-scientific-skills`. Tổng số lượng kỹ năng tăng lên 1,551 thư mục kỹ năng.
 - **[2026-03-12] Cập nhật kỹ năng mới**: Đồng bộ hóa và cập nhật thêm 16 kỹ năng mới từ repository `sickn33/antigravity-awesome-skills`. Tổng cộng 1,398 thư mục kỹ năng hiện tại trải dài trên nhiều lĩnh vực.
 - **[2026-03-10] Cập nhật "The Agency"**: Trích xuất và cài đặt thành công 68 agents (bao gồm Design, Engineering, Marketing, v.v...) từ nguồn `msitarzewski/agency-agents` dưới dạng skill, cho phép hệ thống vận hành theo mô hình Multi-Agent khép kín.
