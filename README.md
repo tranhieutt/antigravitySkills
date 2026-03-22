@@ -1,11 +1,12 @@
-# 🌌 Antigravity System Skills Library (v7.1.0)
+# 🌌 Antigravity System Skills Library (v7.2.0)
 
 Đây là kho lưu trữ kỹ năng (skills) chính thức được cài đặt cho hệ thống Antigravity/Gemini trên máy tính này.
 
-- **Tổng số thư mục kỹ năng**: 1,613 (Thêm bộ 52 System Prompt Skills từ `strangecrab091/52systemprompt`)
-- **Phiên bản hệ thống**: 7.1.0 (Base) + Custom Recovery + Update 2026-03-21
-- **Ngày cập nhật cuối**: 2026-03-21
+- **Tổng số thư mục kỹ năng**: 1,621 (Thêm bộ Spec-Kit SDD Skills từ `github/spec-kit`)
+- **Phiên bản hệ thống**: 7.2.0 (Base) + Custom Recovery + Update 2026-03-22
+- **Ngày cập nhật cuối**: 2026-03-22
 - **Nguồn gốc**:
+  - [github/spec-kit](https://github.com/github/spec-kit) ⭐ **(Mới nhất - v7.2.0)** (Thêm vào 2026-03-22)
   - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) (Thêm vào 2026-03-15)
   - [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) (Thêm vào 2026-03-16)
   - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
@@ -19,7 +20,8 @@ Kỹ năng là các bộ hướng dẫn chuyên biệt dạy cho trợ lý AI c�
 
 Hệ thống vừa được nâng cấp với các bộ kỹ năng chuyên gia:
 
-- **52 System Prompt Techniques** ⭐ **(Mới nhất - v7.1.0)**: 52 kỹ thuật Prompt Engineering chuyên sâu từ `strangecrab091/52systemprompt`, chia thành 6 chương — Cognitive Frameworks, Expert Personas, Coding Techniques, Tool Orchestration, Reflexion & Evaluation, Meta & Security. Xem danh sách đầy đủ bên dưới.
+- **Spec-Kit SDD Workflow** ⭐ **(Mới nhất - v7.2.0)**: 9 skill Spec-Driven Development từ `github/spec-kit` (GitHub chính thức). Bao gồm toàn bộ workflow: `speckit-constitution` → `speckit-specify` → `speckit-clarify` → `speckit-plan` → `speckit-analyze` → `speckit-tasks` → `speckit-checklist` → `speckit-implement` → `speckit-taskstoissues`. CLI tool `specify` (v0.3.2) đã được cài qua `uv`. Hỗ trợ 25+ AI agents.
+- **52 System Prompt Techniques** *(v7.1.0)*: 52 kỹ thuật Prompt Engineering chuyên sâu từ `strangecrab091/52systemprompt`, chia thành 6 chương — Cognitive Frameworks, Expert Personas, Coding Techniques, Tool Orchestration, Reflexion & Evaluation, Meta & Security. Xem danh sách đầy đủ bên dưới.
 - **The Agency**: Nhập 68 agent chuyên biệt mới từ bộ `agency-agents` (VD: `@agency-frontend-developer`, `@agency-ux-researcher`, `@agency-growth-hacker`, v.v.) hoạt động như một công ty thực thụ.
 - **AI Thinkers**: `@yann-lecun`, `@geoffrey-hinton`, `@ilya-sutskever`, `@andrej-karpathy`.
 - **Tech Icons**: `@elon-musk`, `@bill-gates`, `@steve-jobs`, `@sam-altman`.
@@ -83,6 +85,21 @@ Hệ thống hiện hỗ trợ đầy đủ các mảng phát triển game chuy�
 - `@game-development/3d-games` - Phát triển game 3D
 - `@game-development/multiplayer` - Xây dựng game nhiều người chơi
 - `@game-development/game-design` - Thiết kế cơ chế và lối chơi
+
+### 🌱 Spec-Driven Development (Mới - v7.2.0)
+
+> **Yêu cầu**: Phải chạy `specify init --here --ai agy --ai-skills` trong thư mục dự án trước khi dùng.
+
+- `@speckit-constitution` - Tạo nguyên tắc/hiến pháp dự án (bước đầu tiên)
+- `@speckit-specify` - Viết spec từ mô tả ngôn ngữ tự nhiên (Generated/Given/When/Then)
+- `@speckit-clarify` - Hỏi câu hỏi làm rõ trước khi plan (giảm rework)
+- `@speckit-plan` - Tạo kế hoạch kỹ thuật chi tiết (tech stack, architecture)
+- `@speckit-analyze` - Kiểm tra nhất quán giữa spec/plan/tasks
+- `@speckit-tasks` - Breakdown thành task list có dependency và parallel markers
+- `@speckit-checklist` - Tạo quality checklist kiểm tra completeness
+- `@speckit-implement` - Thực thi tất cả tasks theo thứ tự
+- `@speckit-taskstoissues` - Convert tasks thành GitHub Issues
+- `@speckit-updater` - Cập nhật spec-kit lên phiên bản mới nhất
 
 ### Planning & Workflow
 
@@ -228,6 +245,7 @@ Found a skill that needs improvement? Want to add a new skill?
 
 ## 📜 Lịch sử cập nhật (History)
 
+- **[2026-03-22] v7.2.0 — Tích hợp GitHub Spec-Kit (Spec-Driven Development)**: Cài đặt thành công `specify-cli v0.3.2` (GitHub official tool) via `uv tool install`. Khởi tạo project với `--ai agy --ai-skills` tạo ra 9 skill files trong `.agent/skills/`. Copy toàn bộ 9 skills vào hệ thống Antigravity global: `speckit-constitution`, `speckit-specify`, `speckit-clarify`, `speckit-plan`, `speckit-analyze`, `speckit-tasks`, `speckit-checklist`, `speckit-implement`, `speckit-taskstoissues`. Workspace tại `D:\Github-Spec-Kit` đã có đầy đủ `.specify/` directory với templates, scripts (PowerShell), và constitution.md. Tổng số thư mục kỹ năng đạt **1,621**.
 - **[2026-03-21] v7.1.0 — Thêm 52 System Prompt Skills**: Tích hợp thành công toàn bộ 52 kỹ thuật Prompt Engineering từ bài viết `strangecrab091.github.io/52systemprompt` vào hệ thống skills. Bao gồm 6 chương: Cognitive Frameworks, Expert Personas, Coding Techniques, Tool Orchestration, Reflexion & Evaluation, và Meta & Security. Mỗi skill có SKILL.md đầy đủ với System Prompt mẫu, Before/After examples, và sơ đồ luồng. Tổng số thư mục kỹ năng đạt **1,613**.
 - **[2026-03-17] Thêm kỹ năng Frontend UI/UX Premium**: Tổng hợp và xây dựng thành công kỹ năng `@frontend_dev_ui_skill` (từ dự án taste-skill) giúp AI tự động thiết kế UI/UX cao cấp, chống lại phong cách mặc định nhàm chán. Tổng số thư mục kỹ năng đạt 1,561.
 - **[2026-03-16] Auto-update Skills (Antigravity Workflow)**: Đồng bộ repo `antigravity-awesome-skills` và tích hợp nhóm thư mục kỹ năng báo cáo khoa học từ `K-Dense-AI/claude-scientific-writer`, tự động cài đặt các thư mục kỹ năng còn thiếu. Tổng số thư mục kỹ năng đạt 1,560.
