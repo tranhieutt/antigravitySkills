@@ -1,12 +1,13 @@
-# 🌌 Antigravity System Skills Library (v7.2.0)
+# 🌌 Antigravity System Skills Library (v7.3.0)
 
 Đây là kho lưu trữ kỹ năng (skills) chính thức được cài đặt cho hệ thống Antigravity/Gemini trên máy tính này.
 
-- **Tổng số thư mục kỹ năng**: 1,621 (Thêm bộ Spec-Kit SDD Skills từ `github/spec-kit`)
-- **Phiên bản hệ thống**: 7.2.0 (Base) + Custom Recovery + Update 2026-03-22
-- **Ngày cập nhật cuối**: 2026-03-22
+- **Tổng số thư mục kỹ năng**: 1,806 ⭐ **(+185 từ Everything Claude Code - 2026-03-23)**
+- **Phiên bản hệ thống**: 7.3.0 — ECC Integration
+- **Ngày cập nhật cuối**: 2026-03-23
 - **Nguồn gốc**:
-  - [github/spec-kit](https://github.com/github/spec-kit) ⭐ **(Mới nhất - v7.2.0)** (Thêm vào 2026-03-22)
+  - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐ **(Mới nhất - v7.3.0)** (Thêm vào 2026-03-23) — 27 agents + 99 skills
+  - [github/spec-kit](https://github.com/github/spec-kit) (Thêm vào 2026-03-22)
   - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) (Thêm vào 2026-03-15)
   - [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) (Thêm vào 2026-03-16)
   - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
@@ -20,7 +21,13 @@ Kỹ năng là các bộ hướng dẫn chuyên biệt dạy cho trợ lý AI c�
 
 Hệ thống vừa được nâng cấp với các bộ kỹ năng chuyên gia:
 
-- **Spec-Kit SDD Workflow** ⭐ **(Mới nhất - v7.2.0)**: 9 skill Spec-Driven Development từ `github/spec-kit` (GitHub chính thức). Bao gồm toàn bộ workflow: `speckit-constitution` → `speckit-specify` → `speckit-clarify` → `speckit-plan` → `speckit-analyze` → `speckit-tasks` → `speckit-checklist` → `speckit-implement` → `speckit-taskstoissues`. CLI tool `specify` (v0.3.2) đã được cài qua `uv`. Hỗ trợ 25+ AI agents.
+- **Everything Claude Code Integration** ⭐ **(Mới nhất - v7.3.0)**: Tích hợp toàn bộ **185 components** từ repo [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — bao gồm:
+  - **27 specialized agents** (`@planner`, `@architect`, `@tdd-guide`, `@security-reviewer`, `@code-reviewer`...)
+  - **99 workflow skills** (AI/Agent, Backend, Frontend, Language Patterns, Security, Content...)
+  - **59 slash commands** dạng `@cmd-*` (`@cmd-plan`, `@cmd-tdd`, `@cmd-code-review`, `@cmd-orchestrate`, `@cmd-go-review`...)
+  - **12 rule folders** (common, typescript, python, golang, java, kotlin, rust, swift, cpp, csharp, php, perl)
+  - Tổng số skills tăng lên **1,806**.
+- **Spec-Kit SDD Workflow** *(v7.2.0)*: 9 skill Spec-Driven Development từ `github/spec-kit`. CLI tool `specify` (v0.3.2) đã được cài qua `uv`.
 - **52 System Prompt Techniques** *(v7.1.0)*: 52 kỹ thuật Prompt Engineering chuyên sâu từ `strangecrab091/52systemprompt`, chia thành 6 chương — Cognitive Frameworks, Expert Personas, Coding Techniques, Tool Orchestration, Reflexion & Evaluation, Meta & Security. Xem danh sách đầy đủ bên dưới.
 - **The Agency**: Nhập 68 agent chuyên biệt mới từ bộ `agency-agents` (VD: `@agency-frontend-developer`, `@agency-ux-researcher`, `@agency-growth-hacker`, v.v.) hoạt động như một công ty thực thụ.
 - **AI Thinkers**: `@yann-lecun`, `@geoffrey-hinton`, `@ilya-sutskever`, `@andrej-karpathy`.
@@ -244,6 +251,14 @@ Found a skill that needs improvement? Want to add a new skill?
 ---
 
 ## 📜 Lịch sử cập nhật (History)
+
+- **[2026-03-23] v7.3.0 — Everything Claude Code Full Integration**: Tích hợp đầy đủ repo [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) qua 4 bước:
+  - **Agents (27)**: Cài 27 ECC core agents — `architect`, `planner`, `tdd-guide`, `security-reviewer`, `code-reviewer`, `build-error-resolver`, `e2e-runner`, `refactor-cleaner`, `typescript-reviewer`, `python-reviewer`, `rust-reviewer`, `go-reviewer`, `java-reviewer`, `kotlin-reviewer`, `flutter-reviewer`, `cpp-reviewer`, `database-reviewer`, `doc-updater`, `docs-lookup`, `loop-operator`, `chief-of-staff`, `harness-optimizer`, `java/kotlin/rust/go/pytorch-build-resolver`.
+  - **Skills (99)**: Cài 99 ECC workflow skills — `backend-patterns`, `api-design`, `frontend-patterns`, `golang-*`, `kotlin-*`, `springboot-*`, `django-*`, `laravel-*`, `swift-*`, `perl-*`, `continuous-learning`, `autonomous-loops`, `eval-harness`, `security-review`, v.v.
+  - **Commands (59)**: Convert 59 ECC slash commands thành skills với prefix `cmd-*` — `@cmd-plan`, `@cmd-tdd`, `@cmd-code-review`, `@cmd-build-fix`, `@cmd-orchestrate`, `@cmd-go-review`, `@cmd-learn`, `@cmd-save-session`, `@cmd-loop-start`, `@cmd-devfleet`, v.v.
+  - **Rules (12 folders)**: Copy 12 rule folders vào `Rule/` — `common`, `typescript`, `python`, `golang`, `java`, `kotlin`, `rust`, `swift`, `cpp`, `csharp`, `php`, `perl` — mỗi folder chứa 5 rules: `coding-style`, `hooks`, `patterns`, `security`, `testing`.
+  - **Audit**: Quét 1,648 skills — 85.9% CLEAN, 0 malicious. Convert `007` skill từ Bồ Đào Nha → Tiếng Anh.
+  - Tổng số thư mục kỹ năng đạt **1,806**.
 
 - **[2026-03-22] v7.2.0 — Tích hợp GitHub Spec-Kit (Spec-Driven Development)**: Cài đặt thành công `specify-cli v0.3.2` (GitHub official tool) via `uv tool install`. Khởi tạo project với `--ai agy --ai-skills` tạo ra 9 skill files trong `.agent/skills/`. Copy toàn bộ 9 skills vào hệ thống Antigravity global: `speckit-constitution`, `speckit-specify`, `speckit-clarify`, `speckit-plan`, `speckit-analyze`, `speckit-tasks`, `speckit-checklist`, `speckit-implement`, `speckit-taskstoissues`. Workspace tại `D:\Github-Spec-Kit` đã có đầy đủ `.specify/` directory với templates, scripts (PowerShell), và constitution.md. Tổng số thư mục kỹ năng đạt **1,621**.
 - **[2026-03-21] v7.1.0 — Thêm 52 System Prompt Skills**: Tích hợp thành công toàn bộ 52 kỹ thuật Prompt Engineering từ bài viết `strangecrab091.github.io/52systemprompt` vào hệ thống skills. Bao gồm 6 chương: Cognitive Frameworks, Expert Personas, Coding Techniques, Tool Orchestration, Reflexion & Evaluation, và Meta & Security. Mỗi skill có SKILL.md đầy đủ với System Prompt mẫu, Before/After examples, và sơ đồ luồng. Tổng số thư mục kỹ năng đạt **1,613**.
