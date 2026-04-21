@@ -2,9 +2,9 @@
 
 Đây là kho lưu trữ kỹ năng (skills) chính thức được cài đặt cho hệ thống Antigravity/Gemini trên máy tính này.
 
-- **Tổng số thư mục kỹ năng**: 1,806 ⭐ **(+185 từ Everything Claude Code - 2026-03-23)**
+- **Tổng số thư mục kỹ năng**: 1,833 ⭐ **(+27 skills mới - 2026-04-21)**
 - **Phiên bản hệ thống**: 7.3.0 — ECC Integration
-- **Ngày cập nhật cuối**: 2026-03-23
+- **Ngày cập nhật cuối**: 2026-04-21
 - **Nguồn gốc**:
   - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐ **(Mới nhất - v7.3.0)** (Thêm vào 2026-03-23) — 27 agents + 99 skills
   - [github/spec-kit](https://github.com/github/spec-kit) (Thêm vào 2026-03-22)
@@ -16,6 +16,16 @@
 ## 🤔 Kỹ năng (Skills) là gì?
 
 Kỹ năng là các bộ hướng dẫn chuyên biệt dạy cho trợ lý AI cách xử lý các nhiệm vụ cụ thể. Hãy coi chúng là các module kiến thức chuyên gia mà AI có thể tải được khi cần.
+
+### Mới cập nhật (04/2026) 🚀
+
+Thêm 27 kỹ năng mới bao gồm phát triển mobile, design, AI tools, và nhiều hơn nữa:
+
+- **Mobile Development**: `android-native-dev`, `flutter-dev`, `ios-application-dev`, `react-native-dev`, `react-native-skills`
+- **Web Development**: `fullstack-dev`, `frontend-dev`, `refactor`, `shader-dev`
+- **Design & UI**: `awesome-design-md`, `bencium-controlled-ux-designer`, `bencium-innovative-ux-designer`, `composition-patterns`, `contrast-checker`, `use-of-color`
+- **AI & Multimedia**: `minimax-docx`, `minimax-multimodal-toolkit`, `minimax-music-gen`, `minimax-music-playlist`, `minimax-pdf`, `minimax-xlsx`, `vision-analysis`
+- **Other Tools**: `buddy-sings`, `gif-sticker-maker`, `link-purpose`, `pptx-generator`, `travel-optimization-engine`
 
 ### Mới cập nhật (03/2026) 🚀
 
